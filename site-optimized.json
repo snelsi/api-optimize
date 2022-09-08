@@ -1,0 +1,1274 @@
+{
+  "blogname": "Star",
+  "blogdescription": "We make every great person, every great idea and every great company shine.",
+  "blogCharset": "UTF-8",
+  "dateFormat": "F j, Y",
+  "timeFormat": "g:i A",
+  "gmtOffset": "-7",
+  "favicon": {
+    "32": "https://cdn.star.global/wp-content/uploads/2019/02/23030131/cropped-Asset-21-32x32.png",
+    "180": "https://cdn.star.global/wp-content/uploads/2019/02/23030131/cropped-Asset-21-180x180.png",
+    "192": "https://cdn.star.global/wp-content/uploads/2019/02/23030131/cropped-Asset-21-192x192.png",
+    "270": "https://cdn.star.global/wp-content/uploads/2019/02/23030131/cropped-Asset-21-270x270.png",
+    "512": "https://cdn.star.global/wp-content/uploads/2019/02/23030131/cropped-Asset-21.png"
+  },
+  "widgets": {
+    "head-widgets": [
+      {
+        "instanceId": "0cb6ce846702ab3325246e31e48b6ad5",
+        "key": "custom_html",
+        "data": {
+          "title": "GTM Script",
+          "content": "<!-- Google Tag Manager -->\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-MFDNZBK');</script>\r\n<!-- End Google Tag Manager -->"
+        }
+      },
+      {
+        "instanceId": "70e5540848ceb0820fedcde6feb0c2d2",
+        "key": "custom_html",
+        "data": {
+          "title": "Donate button",
+          "content": "<!-- Givebutter Elements -->\r\n<script>\r\n    window.Givebutter=window.Givebutter||function(){(Givebutter.q=Givebutter.q||[]).push(arguments)};Givebutter.l=+new Date;\r\n    window.Givebutter('setOptions',\r\n    {\r\n        \"accountId\": \"GMT2SikLxAEtzkog\"\r\n    });\r\n</script>\r\n<script async src=\"https://js.givebutter.com/elements/latest.js\" ></script>\r\n<!-- End Givebutter Elements -->"
+        },
+        "condition": "notselected",
+        "target_by_url": "/training-camp\r\n/training-camp/*"
+      },
+      {
+        "instanceId": "8a8697e53b204d25310abfb348145dfb",
+        "key": "swc_apple_podcast",
+        "data": { "podcast_id": "1519016580" },
+        "condition": "selected",
+        "target_by_url": "/posts\r\n/posts/*\r\n/jp/posts\r\n/jp/posts/*"
+      }
+    ],
+    "body-top-widgets": [
+      {
+        "instanceId": "c98846750f04e1f982461f204f37d99c",
+        "key": "custom_html",
+        "data": {
+          "title": "GTM No Script",
+          "content": "<!-- Google Tag Manager (noscript) -->\r\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MFDNZBK\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<!-- End Google Tag Manager (noscript) -->"
+        }
+      }
+    ],
+    "subheader": [
+      {
+        "instanceId": "8116609275039b6ffd8d19c8c1888ff3",
+        "key": "swc_layout_block",
+        "data": [
+          {
+            "blockName": "nav-area",
+            "attrs": {
+              "anchor": "nav-services",
+              "title": "Services"
+            },
+            "innerBlocks": [
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Star</strong> Strategy",
+                  "theme": "green",
+                  "description": "Defining powerful endgames for your business and how to achieve them",
+                  "link": {
+                    "id": 23099,
+                    "url": "https://star.global/strategy/",
+                    "title": "Star Strategy Landing",
+                    "type": "page",
+                    "path": "/strategy/"
+                  },
+                  "button": {
+                    "type": "solid",
+                    "skin": "greenBlack",
+                    "size": "sm",
+                    "label": "Explore our expertise",
+                    "icon": "arrow"
+                  }
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Star</strong> Design",
+                  "theme": "green",
+                  "description": "Transforming vision into human-centered digital and physical experiences",
+                  "link": {
+                    "id": 23089,
+                    "url": "https://star.global/design/",
+                    "title": "Star Design Landing",
+                    "type": "page",
+                    "path": "/design/"
+                  },
+                  "button": {
+                    "type": "solid",
+                    "skin": "greenBlack",
+                    "size": "sm",
+                    "label": "Explore our expertise",
+                    "icon": "arrow"
+                  }
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Star</strong> Engineering",
+                  "theme": "green",
+                  "description": "Building and developing<br>full stack scalable technology solutions",
+                  "link": {
+                    "id": 23108,
+                    "url": "https://star.global/engineering/",
+                    "title": "Star Engineering Landing",
+                    "type": "page",
+                    "path": "/engineering/"
+                  },
+                  "button": {
+                    "type": "solid",
+                    "skin": "greenBlack",
+                    "size": "sm",
+                    "label": "Explore our expertise",
+                    "icon": "arrow"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "blockName": "nav-area",
+            "attrs": {
+              "anchor": "nav-insights",
+              "title": "Insights"
+            },
+            "innerBlocks": [
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Our latest thinking</strong>",
+                  "theme": "green",
+                  "description": "Explore thought-provoking content from Star Experts on technology, design and key industries",
+                  "link": {
+                    "id": 183,
+                    "url": "https://star.global/posts/",
+                    "title": "Posts",
+                    "type": "page",
+                    "path": "/posts/"
+                  },
+                  "button": {
+                    "type": "solid",
+                    "skin": "greenBlack",
+                    "size": "sm",
+                    "label": "Read now",
+                    "icon": "arrow"
+                  }
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Trend reports</strong>",
+                  "theme": "green",
+                  "description": "Feature-length content on technology, transformation, industry evolution and the people behind all this change",
+                  "link": {
+                    "path": "/posts/?content_type=3515",
+                    "title": "Cutting-edge product development processes that create Digital Loyalty",
+                    "type": "URL",
+                    "url": "https://star.global/posts/?content_type=3515"
+                  },
+                  "button": {
+                    "type": "solid",
+                    "skin": "greenBlack",
+                    "size": "sm",
+                    "label": "Learn now",
+                    "icon": "arrow"
+                  }
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Podcasts</strong>",
+                  "theme": "green",
+                  "description": "Discover how today\u2019s brightest minds ensure their ideas, products and goals truly shine",
+                  "link": {
+                    "path": "/shine-podcasts/",
+                    "title": "Podcasts",
+                    "type": "page",
+                    "id": 37538,
+                    "url": "https://star.global/shine-podcasts/"
+                  },
+                  "button": {
+                    "type": "solid",
+                    "skin": "greenBlack",
+                    "size": "sm",
+                    "label": "Listen now",
+                    "icon": "arrow"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "blockName": "nav-area",
+            "attrs": {
+              "anchor": "nav-industries"
+            },
+            "innerBlocks": [
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "small",
+                  "title": "<strong>Automotive &amp;\u00a0Mobility</strong>",
+                  "theme": "bg-custom",
+                  "description": "Anticipating driver<br>and passenger needs",
+                  "link": {
+                    "id": 32700,
+                    "url": "https://star.global/industry/automotive/",
+                    "title": "Automotive",
+                    "type": "industry_page",
+                    "path": "/industry/automotive/"
+                  },
+                  "button": {
+                    "type": "solid",
+                    "skin": "greenBlack",
+                    "size": "sm",
+                    "label": "Explore our expertise",
+                    "icon": "arrow"
+                  },
+                  "background": {
+                    "id": 32639,
+                    "url": "https://cdn.star.global/wp-content/uploads/2020/11/10094339/Hover-min-1.jpg",
+                    "type": "image",
+                    "mime": "image/png",
+                    "alt": "Automotive and Mobility - Hover-min",
+                    "title": "Hover-min",
+                    "filename": "Hover-min-1.jpg",
+                    "mediaFocus": { "x": 0.5, "y": 0.5 },
+                    "size": { "width": 728, "height": 452 },
+                    "thumbnail": "data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgABQAFAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A8PsNb1DToylpcmJWOSAoOfzooooA/9k="
+                  },
+                  "className": "is-style-bg-custom"
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "small",
+                  "title": "<strong>HealthTech</strong>",
+                  "theme": "bg-custom",
+                  "description": "Tackling today's most immense <br>healthcare challenges",
+                  "link": {
+                    "title": "Cutting-edge product development processes that create Digital Loyalty",
+                    "type": "industry_page",
+                    "path": "/industry/healthtech/",
+                    "id": 52520,
+                    "url": "https://star.global/industry/healthtech/",
+                    "kind": "post-type"
+                  },
+                  "button": {
+                    "type": "solid",
+                    "skin": "greenBlack",
+                    "size": "sm",
+                    "label": "Explore our expertise",
+                    "icon": "arrow"
+                  },
+                  "background": {
+                    "id": 32642,
+                    "url": "https://cdn.star.global/wp-content/uploads/2020/11/10094407/Health-Wellness.jpg",
+                    "type": "image",
+                    "alt": "Health-Wellness",
+                    "mediaFocus": { "x": 0.5, "y": 0.5 },
+                    "size": { "width": 1092, "height": 678 },
+                    "thumbnail": "data:;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgABQAFAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AxtHe5v7ddRW7ngkuo42ZY3IAG0EDjGcbjRRRXBVnKMmkelRgpQTZ/9k="
+                  },
+                  "className": "is-style-bg-custom"
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "small",
+                  "title": "<strong>AdTech &amp; MarTech</strong>",
+                  "theme": "bg-custom",
+                  "description": "Driving delight through impactful <br>user-centric solutions",
+                  "link": {
+                    "id": 70891,
+                    "url": "https://star.global/industry/adtech-martech/",
+                    "title": "AdTech & MarTech",
+                    "type": "industry_page",
+                    "kind": "post-type",
+                    "path": "/industry/adtech-martech/"
+                  },
+                  "button": {
+                    "type": "solid",
+                    "skin": "greenBlack",
+                    "size": "sm",
+                    "label": "Explore our expertise",
+                    "icon": "arrow"
+                  },
+                  "background": {
+                    "id": 73187,
+                    "url": "https://cdn.star.global/wp-content/uploads/2020/11/11040455/AdTech-%E2%80%94-Right-Solution-Visual-min-e1657622487550.jpg",
+                    "type": "image",
+                    "alt": "AdTech & MarTech solutions",
+                    "mediaFocus": { "x": 0.5, "y": 0.5 },
+                    "size": { "width": 1024, "height": 636 },
+                    "thumbnail": "data:;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgABQAFAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A8l+ImgWmg661rA006kLJvnIL/MisQcADqx7UUUVyrZHc9z//2Q=="
+                  },
+                  "className": "is-style-bg-custom"
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "small",
+                  "title": "<strong>FinTech</strong>",
+                  "theme": "bg-custom",
+                  "description": "Co-creating new <br>FinTech ventures &amp; products",
+                  "link": {
+                    "title": "Cutting-edge product development processes that create Digital Loyalty",
+                    "type": "industry_page",
+                    "path": "/industry/fintech/",
+                    "id": 52517,
+                    "url": "https://star.global/industry/fintech/",
+                    "kind": "post-type"
+                  },
+                  "button": {
+                    "type": "solid",
+                    "skin": "greenBlack",
+                    "size": "sm",
+                    "label": "Explore our expertise",
+                    "icon": "arrow"
+                  },
+                  "background": {
+                    "id": 32645,
+                    "url": "https://cdn.star.global/wp-content/uploads/2020/11/10094444/FinTech-1.jpg",
+                    "type": "image",
+                    "alt": "FinTech - our work",
+                    "mediaFocus": { "x": 0.5, "y": 0.5 },
+                    "size": { "width": 1092, "height": 678 },
+                    "thumbnail": "data:;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgABQAFAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5nRr+LUrITanA9xICVVo2VDjPfKtn9P8CiimoRau0ZurOLsmf//Z"
+                  },
+                  "className": "is-style-bg-custom"
+                }
+              }
+            ]
+          },
+          {
+            "blockName": "nav-area",
+            "attrs": {
+              "anchor": "nav-careers"
+            },
+            "innerBlocks": [
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Why Star</strong>",
+                  "theme": "green",
+                  "description": "At Star, we work relentlessly to make every great idea, every great person and every great company shine",
+                  "link": {
+                    "path": "/values-benefits/",
+                    "title": "Cutting-edge product development processes that create Digital Loyalty",
+                    "id": 59786,
+                    "url": "https://star.global/values-benefits/",
+                    "type": "page",
+                    "kind": "post-type"
+                  },
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Explore now", "icon": "arrow" }
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Job Openings</strong>",
+                  "theme": "green",
+                  "description": "Find your dream job. Browse available opportunities and match your skills and experience to an incredible role",
+                  "link": {
+                    "title": "Cutting-edge product development processes that create Digital Loyalty",
+                    "type": "page",
+                    "kind": "post-type",
+                    "path": "/careers/",
+                    "id": 60005,
+                    "url": "https://star.global/careers/"
+                  },
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Explore now", "icon": "arrow" }
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Training Camp</strong>",
+                  "theme": "green",
+                  "description": "Take your career to the next level and receive hands-on experience through top-class mentorship and tailor-made programs",
+                  "link": {
+                    "title": "E-bike market trends: new research into cutting-edge technology",
+                    "id": 73821,
+                    "url": "https://star.global/training-camp/",
+                    "type": "page",
+                    "kind": "post-type",
+                    "path": "/training-camp/"
+                  },
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Grow with Star", "icon": "arrow" }
+                }
+              }
+            ]
+          },
+          {
+            "blockName": "nav-area",
+            "attrs": {
+              "anchor": "nav-about"
+            },
+            "innerBlocks": [
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Our company</strong>",
+                  "theme": "green",
+                  "description": "Meet our global team of product creators and discover how Star sees the world",
+                  "link": {
+                    "title": "About",
+                    "type": "page",
+                    "kind": "post-type",
+                    "path": "/about/",
+                    "id": 47,
+                    "url": "https://star.global/about/"
+                  },
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Learn more", "icon": "arrow" }
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>Meet our founder</strong>",
+                  "theme": "green",
+                  "description": "Explore first-hand groundbreaking insights",
+                  "link": { "url": "https://juha.star.global/", "path": "https://juha.star.global/" },
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Learn more", "icon": "arrow" }
+                }
+              },
+              {
+                "blockName": "nav-link-card",
+                "attrs": {
+                  "layout": "medium",
+                  "title": "<strong>M&amp;A</strong>",
+                  "theme": "green",
+                  "description": "Become part of Star and join our growth journey",
+                  "link": {
+                    "id": 63229,
+                    "url": "https://star.global/mergers-and-acquisitions/",
+                    "title": "M&amp;A",
+                    "type": "page",
+                    "kind": "post-type",
+                    "path": "/mergers-and-acquisitions/"
+                  },
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Learn more", "icon": "arrow" }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "supfooter": [
+      {
+        "instanceId": "cb75523c4a478af93fa3277866b20277",
+        "key": "swc_layout_block",
+        "data": [
+          {
+            "blockName": "regions-locations",
+            "attrs": {
+              "instanceId": "a1eb7e0b-c10f-437f-9d2c-07129c550363",
+              "anchor": "locations",
+              "description": "We are truly global.<br>Explore our locations around the world.",
+              "addressLabel": "Address",
+              "phoneLabel": "Phone",
+              "regionsList": [
+                { "anchor": "tabs-america", "title": "North America", "count": 4 },
+                { "anchor": "tabs-noth", "title": "Latin America", "count": 1 },
+                { "anchor": "tabs-europe", "title": "europe", "count": 7 },
+                { "anchor": "tabs-asia", "title": "asia", "count": 3 }
+              ]
+            },
+            "innerBlocks": [
+              {
+                "blockName": "region",
+                "attrs": {
+                  "title": "North America",
+                  "instanceId": "e6dd14de-10d2-41ff-a3f2-c33fd6e7a8a0",
+                  "anchor": "tabs-america",
+                  "locations": [
+                    {
+                      "id": 21,
+                      "name": "Sunnyvale",
+                      "email": "hellosunnyvale@star.global",
+                      "address": "1250 Borregas Ave<br />\r\nSunnyvale, CA 94089",
+                      "timediff": -7,
+                      "timezone": "America/Los_Angeles",
+                      "country": { "label": "United States of America", "code": "US" }
+                    },
+                    {
+                      "id": 28,
+                      "name": "San Francisco",
+                      "email": "hellosanfrancisco@star.global",
+                      "address": "520 Hampshire Street, Suite 213<br />\r\nSan Francisco, CA 94110",
+                      "timediff": -7,
+                      "timezone": "America/Los_Angeles",
+                      "country": { "label": "United States of America", "code": "US" }
+                    },
+                    {
+                      "id": 24,
+                      "name": "New York",
+                      "email": "hellonewyork@star.global",
+                      "address": "114 E 25th St, <br />\r\nNew York, NY 10010",
+                      "timediff": -4,
+                      "timezone": "America/New_York",
+                      "country": { "label": "United States of America", "code": "US" }
+                    },
+                    {
+                      "id": 50894,
+                      "name": "Dallas",
+                      "timediff": -5,
+                      "timezone": "America/Lima",
+                      "country": { "label": "United States", "code": "US" }
+                    }
+                  ],
+                  "mapBackground": {
+                    "id": 74459,
+                    "url": "https://cdn.star.global/wp-content/uploads/2021/11/30073233/North-America-Big.svg",
+                    "type": "image",
+                    "mime": "image/svg+xml",
+                    "title": "North America, Big",
+                    "filename": "North-America-Big.svg",
+                    "mediaFocus": { "x": 0.28, "y": 0.34 },
+                    "contentTheme": "dark",
+                    "size": { "width": "1440", "height": "314" }
+                  }
+                }
+              },
+              {
+                "blockName": "region",
+                "attrs": {
+                  "title": "Latin America",
+                  "instanceId": "64022830-0f5f-428e-b1e1-67aba4b01dcc",
+                  "anchor": "tabs-noth",
+                  "locations": [
+                    {
+                      "id": 70026,
+                      "name": "Medell\u00edn",
+                      "timediff": -5,
+                      "timezone": "America/Bogota",
+                      "country": { "label": "Colombia", "code": "CO" }
+                    }
+                  ],
+                  "mapBackground": {
+                    "id": 74454,
+                    "url": "https://cdn.star.global/wp-content/uploads/2021/11/30073135/Latin-America-Big.svg",
+                    "type": "image",
+                    "mime": "image/svg+xml",
+                    "title": "Latin America, Big",
+                    "filename": "Latin-America-Big.svg",
+                    "mediaFocus": { "x": 0.35, "y": 0.68 },
+                    "contentTheme": "dark",
+                    "size": { "width": "1440", "height": "314" }
+                  }
+                }
+              },
+              {
+                "blockName": "region",
+                "attrs": {
+                  "title": "europe",
+                  "instanceId": "87f0800e-d746-49e3-99b8-cdf4071af5e7",
+                  "anchor": "tabs-europe",
+                  "locations": [
+                    {
+                      "id": 23,
+                      "name": "Copenhagen",
+                      "email": "hellocopenhagen@star.global",
+                      "phone": "+45 53 83 07 60",
+                      "address": "Bloxhub 2, Bryghuspladsen 8, Entrance C, 3rd floor<br />\r\n1473 Copenhagen K",
+                      "timediff": 2,
+                      "timezone": "Europe/Copenhagen",
+                      "country": { "label": "Denmark", "code": "DK" }
+                    },
+                    {
+                      "id": 27,
+                      "name": "London",
+                      "email": "hellolondon@star.global",
+                      "address": "24 Greville St, <br />\r\nLondon EC1N 8SS, <br />\r\nUnited Kingdom",
+                      "timediff": 1,
+                      "timezone": "Europe/London",
+                      "country": { "label": "United Kingdom", "code": "GB" }
+                    },
+                    {
+                      "id": 31,
+                      "name": "Wroclaw",
+                      "email": "hellowroclaw@star.global",
+                      "phone": "+48 51 482 12 60",
+                      "address": "Grunwaldzki Square 23 (Grunwaldzki Center A)<br />\r\n50-365 Wroc\u0142aw",
+                      "timediff": 2,
+                      "timezone": "Europe/Warsaw",
+                      "country": { "label": "Poland", "code": "PL" }
+                    },
+                    {
+                      "id": 32,
+                      "name": "Kyiv",
+                      "email": "hellokyiv@star.global",
+                      "phone": "+38 044 5947450",
+                      "address": "Okhtyrskyi Lane 7<br />\r\nKyiv 03066",
+                      "timediff": 3,
+                      "timezone": "Europe/Kiev",
+                      "country": { "label": "Ukraine", "code": "UA" }
+                    },
+                    {
+                      "id": 22518,
+                      "name": "Frankfurt",
+                      "email": "hellofrankfurt@star.global",
+                      "address": "Neue Mainzer Str. 66<br />\r\n60311 Frankfurt am Main",
+                      "timediff": 2,
+                      "timezone": "Europe/Berlin",
+                      "country": { "label": "Germany", "code": "DE" }
+                    },
+                    {
+                      "id": 20,
+                      "name": "Munich",
+                      "email": "hellomunich@star.global",
+                      "phone": "+49 89 45 21 61 80",
+                      "address": "Bayerstrasse 85a<br />\r\n80335 Munich<br />\r\n",
+                      "timediff": 2,
+                      "timezone": "Europe/Berlin",
+                      "country": { "label": "Germany", "code": "DE" }
+                    },
+                    {
+                      "id": 55819,
+                      "name": "Milano",
+                      "address": "Copernico Isola S32<br />\r\nVia Sassetti, 32<br />\r\n20124, Milano",
+                      "timediff": 2,
+                      "timezone": "Europe/Rome",
+                      "country": { "label": "Italy", "code": "IT" }
+                    }
+                  ],
+                  "mapBackground": {
+                    "id": 74449,
+                    "url": "https://cdn.star.global/wp-content/uploads/2021/11/30072930/Europe-Big.svg",
+                    "type": "image",
+                    "mime": "image/svg+xml",
+                    "title": "Europe, Big",
+                    "filename": "Europe-Big.svg",
+                    "mediaFocus": { "x": 0.53, "y": 0.2 },
+                    "contentTheme": "dark",
+                    "size": { "width": "1440", "height": "314" }
+                  }
+                }
+              },
+              {
+                "blockName": "region",
+                "attrs": {
+                  "title": "asia",
+                  "instanceId": "c7891f16-bc59-4c09-af10-eea72f981a36",
+                  "anchor": "tabs-asia",
+                  "locations": [
+                    {
+                      "id": 30,
+                      "name": "Tokyo",
+                      "email": "hellojapan@star.global",
+                      "address": "6-12-18 Jingumae<br />\r\nShibuya-ku<br />\r\nTokyo, 150-0001",
+                      "timediff": 9,
+                      "timezone": "Asia/Tokyo",
+                      "country": { "label": "Japan", "code": "JP" }
+                    },
+                    {
+                      "id": 824,
+                      "name": "Ho Chi Minh City",
+                      "email": "hellovietnam@star.global",
+                      "address": "4th Floor<br />\r\n26 Huynh Khuong Ninh Street<br />\r\nDa Kao Ward<br />\r\nDistrict 1, Ho Chi Minh City",
+                      "timediff": 7,
+                      "timezone": "Asia/Ho_Chi_Minh",
+                      "country": { "label": "Vietnam", "code": "VN" }
+                    },
+                    {
+                      "id": 74472,
+                      "name": "Shanghai",
+                      "timediff": 8,
+                      "timezone": "Asia/Shanghai",
+                      "country": { "label": "China", "code": "CN" }
+                    }
+                  ],
+                  "mapBackground": {
+                    "id": 74466,
+                    "url": "https://cdn.star.global/wp-content/uploads/2021/11/30073415/Asia-Big.svg",
+                    "type": "image",
+                    "mime": "image/svg+xml",
+                    "title": "Asia, Big",
+                    "filename": "Asia-Big.svg",
+                    "mediaFocus": { "x": 0.75, "y": 0.34 },
+                    "contentTheme": "dark",
+                    "size": { "width": "1440", "height": "314" }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "condition": "notselected",
+        "target_by_url": "/financial-services-digital-solutions\r\n/automotive-retail-solutions\r\n/shine-podcasts\r\n/posts\r\n/careers\r\n/values-benefits\r\n/test-for-video-sections\r\n/training-camp\r\n/training-camp/*"
+      }
+    ],
+    "footer-1": [
+      {
+        "instanceId": "8eea74b891e81d28e33f4dfcdc97deb0",
+        "key": "text",
+        "data": {
+          "text": "Star is a global team of <strong>product creators</strong>. We connect strategy, design and engineering services into a seamless workflow devised to build solutions with the right focus on impact, scalability, performance and prudence.",
+          "filter": true,
+          "visual": true,
+          "pll_lang": "en"
+        }
+      },
+      {
+        "instanceId": "645f37f2bdb0f9d52a30aee7ead6b5d5",
+        "key": "swc_socials",
+        "data": {
+          "facebook": "https://www.facebook.com/starglobally",
+          "twitter": "https://twitter.com/starglobally",
+          "linkedin": "https://www.linkedin.com/company/starglobal",
+          "instagram": "https://www.instagram.com/star.product.creators/"
+        }
+      }
+    ],
+    "footer-2": [
+      {
+        "instanceId": "3bce3dd074f899d0e919ac4e9dfc1856",
+        "key": "text",
+        "data": {
+          "title": "Insights & inspiration",
+          "text": "<span style=\"font-weight: 400;\">Receive the latest Star insights on trends, technologies and endgame-driven approaches straight to your inbox.</span>",
+          "filter": true,
+          "visual": true,
+          "pll_lang": "en"
+        }
+      },
+      {
+        "instanceId": "51fa625358de65c8e1c179d77d126782",
+        "key": "swc_layout_block",
+        "data": [
+          {
+            "blockName": "form",
+            "attrs": {
+              "instanceId": "d5518b48-44f7-4c65-98b9-095db62f5688",
+              "form": {
+                "trackingType": "newsletterSignUp",
+                "id": "2019cc32-e1bd-43dc-8c06-0d934c63744f",
+                "name": "[Star][EN] Footer Subsciption Form",
+                "instanceId": "ab5456f5-1410-46f0-a8a4-5dee862acb18"
+              }
+            },
+            "innerBlocks": [
+              {
+                "blockName": "form-confirmation",
+                "attrs": {
+                  "instanceId": "e451adcf-f584-4a36-9a29-7723d2cc2059"
+                },
+                "innerBlocks": [
+                  {
+                    "blockName": "paragraph",
+                    "attrs": {
+                      "className": "text-sm",
+                      "instanceId": "b194fbec-66da-433c-8335-551dcb71d047",
+                      "text": "Thank you for your interest!",
+                      "format": "text-sm"
+                    }
+                  }
+                ]
+              },
+              {
+                "blockName": "form-error",
+                "attrs": {
+                  "instanceId": "a67d5095-6812-4d83-93af-8ac34eff24c1"
+                },
+                "innerBlocks": [
+                  {
+                    "blockName": "paragraph",
+                    "attrs": {
+                      "className": "text-sm",
+                      "instanceId": "51307aa8-a259-425e-a876-bcbb39142539",
+                      "text": "Something went wrong. Please try again later.",
+                      "format": "text-sm"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "footer-3": [
+      {
+        "instanceId": "0e9a8d9032a33955ce9fa3deea9706b9",
+        "key": "text",
+        "data": { "title": "Contacts", "filter": true, "visual": true, "pll_lang": "en" }
+      },
+      {
+        "instanceId": "5eb8ec0829b8cc6f5f9cc6808db5c3e2",
+        "key": "swc_layout_block",
+        "data": [
+          {
+            "blockName": "buttons",
+            "attrs": {
+              "instanceId": "2eae2e2b-5e03-4124-8f82-4f1b0d155c7f"
+            },
+            "innerBlocks": [
+              {
+                "blockName": "button",
+                "attrs": {
+                  "instanceId": "8d951254-f7df-403c-9d70-3120088548e6",
+                  "label": "Contact us",
+                  "link": {
+                    "url": "https://star.global/contact/",
+                    "title": "Contact",
+                    "path": "https://star.global/contact/"
+                  },
+                  "skin": "greenPurple",
+                  "size": "sm",
+                  "mobileSize": "full-width",
+                  "type": "solid",
+                  "icon": "arrow"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "instanceId": "daddcfa3491f11446e25c93d47cce916",
+        "key": "text",
+        "data": {
+          "text": "<div>Or write us at <a title=\"Write us\" href=\"mailto:hellostar@star.global\">hellostar@star.global</a></div>",
+          "filter": true,
+          "visual": true,
+          "pll_lang": "en"
+        }
+      }
+    ],
+    "footer-bottom": [
+      {
+        "instanceId": "830b25410b1574115f9f479121e461ce",
+        "key": "text",
+        "data": {
+          "text": "\u00a9 Copyright Star 2022. All rights reserved <a title=\"Privacy Policy\" href=\"https://star.global/privacy-policy/\">Privacy\u00a0Policy</a>",
+          "filter": true,
+          "visual": true,
+          "pll_lang": "en"
+        }
+      },
+      {
+        "instanceId": "4f7133c47d43fa762ca5f05a9b7fe7a4",
+        "key": "swc_layout_block",
+        "data": [
+          {
+            "blockName": "cookies-consent",
+            "attrs": {
+              "title": "We use cookies",
+              "content": "That\u2019s how we improve the website experience with analytics and personalization.<br>By continuing to browse you agree to our use of cookies. You can find more information <a href=\"https://star.global/privacy-policy/\" data-type=\"page\" data-id=\"187\">here</a>"
+            },
+            "innerBlocks": [
+              {
+                "blockName": "button",
+                "attrs": {
+                  "instanceId": "a4b1ca2f-0ffb-474b-b3c3-92ca2a9c7d05",
+                  "label": "Accept all",
+                  "skin": "whiteGreen",
+                  "size": "md",
+                  "type": "button",
+
+                  "className": "is-style-button"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "blog-post-author": [
+      {
+        "instanceId": "b13098c8e36eb84436e49e27c3adfdfa",
+        "key": "swc_cta_block",
+        "data": {
+          "title": "Harness the future of Enterprise Design Thinking",
+          "description": "Design Thinking offers a customizable solution to all enterprise-level challenges. Get all you need to know to fuel your next innovation.",
+          "cta_label": "Learn more",
+          "cta_link": "https://star.global/posts/enterprise-design-thinking/",
+          "industry": "no-industry",
+          "is_blank_target": "on"
+        },
+        "condition": "hide",
+        "target_by_url": "/cn/posts/enterprise-design-thinking"
+      },
+      {
+        "instanceId": "15be6ea27cba01f80d8c859a8f071015",
+        "key": "swc_cta_block",
+        "data": {
+          "title": "Harness the future of technologies",
+          "description": "Star uses top-notch technology solutions to create innovative digital experiences for our clients.",
+          "cta_label": "Explore our work ",
+          "cta_link": "https://star.global/our-work/",
+          "industry": "no-industry",
+          "is_blank_target": "on"
+        },
+        "target_by_url": "/cn/posts/enterprise-design-thinking"
+      },
+      {
+        "instanceId": "3271e9f915c93abe6bb463a40f925c6c",
+        "key": "swc_cta_block",
+        "data": {
+          "title": "Harness Star's FinTech capabilities",
+          "description": "Our digital finance experts blend strategy, design and engineering to help our customers harness disruptive technologies and opportunities to build innovative, integrated and frictionless financial services.      ",
+          "cta_label": "Explore our expertise",
+          "cta_link": "https://star.global/industry/fintech/",
+          "industry": "573"
+        }
+      },
+      {
+        "instanceId": "5c9b5698055ecb8dbdc0933828650ea4",
+        "key": "swc_cta_block",
+        "data": {
+          "title": "Create pioneering Automotive & Mobility experiences",
+          "description": "We help companies ideate, build, launch and scale disruptive automotive and mobility solutions through user-centered design, embedded engineering and omnichannel experiences.",
+          "cta_label": "Explore our expertise",
+          "cta_link": "https://star.global/industry/automotive/",
+          "industry": "581",
+          "is_blank_target": "on"
+        }
+      },
+      {
+        "instanceId": "83981799ad44fa0b20f8273a69c8fc7e",
+        "key": "swc_cta_block",
+        "data": {
+          "title": "Harness Star's HealthTech capabilities",
+          "description": "We are passionate about improving\r\nhealthcare outcomes with digital products that are a pleasure to use",
+          "cta_label": "Explore our expertise",
+          "cta_link": "https://star.global/industry/healthtech/",
+          "industry": "577",
+          "is_blank_target": "on"
+        }
+      }
+    ],
+    "sharing": [
+      {
+        "instanceId": "10fcdfe38c5240dc7507f14ad7e34a7e",
+        "key": "swc_sharing_icons",
+        "data": { "title": "Share opportunity", "icons": "facebook,twitter,linkedin" }
+      }
+    ]
+  },
+  "navbars": {
+    "header-main": [
+      {
+        "db_id": 26874,
+        "menu_item_parent": "0",
+        "url": "https://star.global/our-work/",
+        "title": "Our Work",
+        "path": "/our-work/"
+      },
+      {
+        "db_id": 32655,
+        "menu_item_parent": "0",
+        "title": "Industries",
+        "hover_link": "#nav-industries"
+      },
+      {
+        "db_id": 33208,
+        "menu_item_parent": "32655",
+        "title": "Automotive & Mobility",
+        "url": "https://star.global/industry/automotive/",
+        "path": "/industry/automotive/"
+      },
+      {
+        "db_id": 33209,
+        "menu_item_parent": "32655",
+        "title": "HealthTech",
+        "url": "https://star.global/industry/healthtech/",
+        "path": "/industry/healthtech/"
+      },
+      {
+        "db_id": 33210,
+        "menu_item_parent": "32655",
+        "title": "FinTech",
+        "url": "https://star.global/industry/fintech/",
+        "path": "/industry/fintech/"
+      },
+      {
+        "db_id": 73214,
+        "menu_item_parent": "32655",
+        "title": "AdTech & MarTech",
+        "url": "https://star.global/industry/adtech-martech/",
+        "path": "/industry/adtech-martech/"
+      },
+      {
+        "db_id": 26877,
+        "menu_item_parent": "0",
+        "title": "Services",
+        "hover_link": "#nav-services"
+      },
+      {
+        "db_id": 49526,
+        "menu_item_parent": "26877",
+        "url": "https://star.global/strategy/",
+        "title": "Star Strategy",
+        "path": "/strategy/"
+      },
+      {
+        "db_id": 49527,
+        "menu_item_parent": "26877",
+        "url": "https://star.global/design/",
+        "title": "Star Design",
+        "path": "/design/"
+      },
+      {
+        "db_id": 49528,
+        "menu_item_parent": "26877",
+        "url": "https://star.global/engineering/",
+        "title": "Star Engineering",
+        "path": "/engineering/"
+      },
+      {
+        "db_id": 70435,
+        "menu_item_parent": "0",
+        "title": "About",
+        "hover_link": "#nav-about"
+      },
+      {
+        "db_id": 71727,
+        "menu_item_parent": "70435",
+        "url": "https://star.global/about/",
+        "title": "Our company",
+        "path": "/about/"
+      },
+      {
+        "db_id": 71729,
+        "menu_item_parent": "70435",
+        "title": "Meet our founder",
+        "url": "https://juha.star.global/",
+        "path": "https://juha.star.global/"
+      },
+      {
+        "db_id": 71728,
+        "menu_item_parent": "70435",
+        "url": "https://star.global/mergers-and-acquisitions/",
+        "title": "M&amp;A",
+        "path": "/mergers-and-acquisitions/"
+      },
+      {
+        "db_id": 26875,
+        "menu_item_parent": "0",
+        "title": "Insights",
+        "hover_link": "#nav-insights"
+      },
+      {
+        "db_id": 26883,
+        "menu_item_parent": "26875",
+        "url": "https://star.global/posts/",
+        "title": "Articles",
+        "path": "/posts/"
+      },
+      {
+        "db_id": 26884,
+        "menu_item_parent": "26875",
+        "title": "Trend Reports",
+        "url": "https://star.global/posts/?content_type=3515",
+        "path": "/posts/?content_type=3515"
+      },
+      {
+        "db_id": 40231,
+        "menu_item_parent": "26875",
+        "url": "https://star.global/shine-podcasts/",
+        "title": "Podcasts",
+        "path": "/shine-podcasts/"
+      },
+      {
+        "db_id": 60821,
+        "menu_item_parent": "0",
+        "title": "Careers",
+        "url": "https://star.global/careers/",
+        "path": "/careers/",
+        "hover_link": "#nav-careers"
+      },
+      {
+        "db_id": 60823,
+        "menu_item_parent": "60821",
+        "url": "https://star.global/values-benefits/",
+        "title": "Why Star",
+        "path": "/values-benefits/"
+      },
+      {
+        "db_id": 60824,
+        "menu_item_parent": "60821",
+        "url": "https://star.global/careers/",
+        "title": "Job Openings",
+        "path": "/careers/"
+      },
+      {
+        "db_id": 73997,
+        "menu_item_parent": "60821",
+        "url": "https://star.global/training-camp/",
+        "title": "Training Camp",
+        "path": "/training-camp/"
+      }
+    ],
+    "header-side": [
+      {
+        "db_id": 38414,
+        "menu_item_parent": "0",
+        "url": "https://star.global/contact/",
+        "title": "Contact Us",
+        "attr_title": "Contact Us",
+        "classes": ["btn"],
+        "path": "/contact/",
+        "skin": "blackGreen",
+        "size": "md",
+        "type": "solid",
+        "icon": "arrow"
+      }
+    ]
+  },
+  "locales": {
+    "en": {
+      "name": "English",
+      "locale": "en-us",
+      "url": "https://star.global/",
+      "blogurl": "https://star.global/posts/",
+      "blogname": "Star",
+      "blogdescription": "We make every great person, every great idea and every great company shine."
+    },
+    "jp": {
+      "name": "\u65e5\u672c\u8a9e",
+      "locale": "ja",
+      "url": "https://star.global/jp/",
+      "blogurl": "https://star.global/jp/posts/",
+      "blogname": "Star",
+      "blogdescription": "We make every great person, every great idea and every great company shine."
+    },
+    "cn": {
+      "name": "\u4e2d\u6587 (\u4e2d\u56fd)",
+      "locale": "zh",
+      "url": "https://star.global/cn/",
+      "blogurl": "https://star.global/cn/posts/",
+      "blogname": "Star",
+      "blogdescription": "\u6211\u4eec\u7684\u4f7f\u547d\u662f\u8ba9\u6bcf\u4e00\u4e2a\u6770\u51fa\u4eba\u7269\u3001\u60f3\u6cd5\u548c\u516c\u53f8\u90fd\u7480\u74a8\u8000\u773c\u3002"
+    }
+  },
+  "strings": {
+    "swc_general_share_label": "Share",
+    "swc_general_modal_close_label": "Back to page",
+    "swc_article_nav_title": "Table of contents",
+    "swc_article_authors_prefix": "by",
+    "swc_article_summary_title": "Summary",
+    "swc_article_related_topics_title": "Related topics",
+    "swc_article_authors_title": "About",
+    "swc_article_related_articles_title": "You may also like...",
+    "swc_article_back_label": "Back to all materials",
+    "swc_articles_filtered_title": "Our insights for you",
+    "swc_careers_back_label": "Back to all opportunities",
+    "swc_job_remote_hint": "Available in this country only",
+    "swc_careers_cta_tile_link_label": "Discover",
+    "swc_careers_form_back_label": "Back to page",
+    "swc_careers_form_title": "Apply now",
+    "swc_careers_form_sidebar_title": "Submit your CV",
+    "swc_job_inactive_message": "Unfortunately, this job opportunity is currently unavailable, but you can always send your CV to us in case of any future job openings.",
+    "swc_job_inactive_title": "The opportunity is closed",
+    "swc_job_remote_label": "Remote",
+    "swc_careers_filtered_title": "Opportunities for you",
+    "swc_job_remote_message": "Please note that to work remotely, you should be a resident of the country specified in the job description.",
+    "swc_job_remote_title": "Remote opportunity",
+    "swc_job_skills_title": "Required skills",
+    "swc_job_related_jobs_title": "Similar opportunities",
+    "swc_job_header_apply_label": "Apply now",
+    "swc_job_sidebar_apply_label": "Apply now",
+    "swc_careers_job_tile_link_label": "Explore opportunity",
+    "swc_podcasts_no_content": "There is no content available",
+    "swc_podcasts_refresh_filter": "Refresh filter",
+    "swc_careers_linkedin_signin_label": "Sign in via LinkedIn",
+    "swc_careers_filtered_cta_label": "Submit your CV",
+    "swc_careers_filtered_cta_link": "/contact#send-cv",
+    "swc_careers_no_content_title": "Oops!",
+    "swc_careers_no_content": "Unfortunately, there are no results for this search. Please try another filtering option or submit your CV to <a href=\"mailto:careers@star.global\" target=\"_blank\">careers@star.global</a> in case of any future job openings.",
+    "swc_general_location_request": "Star wants to track your location!",
+    "swc_articles_no_content": "Unfortunately, we don\u2019t have what to show you now. Try to find what you want through filtering or dive into all materials.",
+    "swc_articles_no_content_title": "Oh, no!",
+    "swc_internship_status_1": "Coming soon",
+    "swc_internship_status_2": "Active",
+    "swc_internship_status_3": "In progress",
+    "swc_internship_status_4": "Finished",
+    "swc_internship_application_deadline": "Application deadline",
+    "swc_internship_start_date": "Program start",
+    "swc_internship_duration": "Program duration",
+    "swc_internship_duration_format_multi": "%s weeks",
+    "swc_internship_duration_format_single": "%s week",
+    "swc_internship_application_title": "Opportunity application",
+    "formErrors": {
+      "general": "Something went wrong.<br />Please try again later.",
+      "required": "This value is required.",
+      "invalid_params": "Invalid parameters.",
+      "modal_close": "Cancel",
+      "noFile": "Error getting the file.",
+      "noConnection": "Connection error.",
+      "invalid": "Given value is not valid.",
+      "fileUpload": "File upload failed.",
+      "fileSize": "This file should not be larger than %s MB.",
+      "fileFormat": "Only %s allowed.",
+      "fileCount": "Maximum number of files is exceeded."
+    }
+  },
+  "integrations": { "hubspot": { "portalId": "6975083" }, "breezy": { "companyId": "ca1ce75afa7f" } },
+  "templates": {
+    "careers": { "feed": { "id": "60005", "path": "/careers/", "url": "https://star.global/careers/" }, "withLinkedinSignIn": false },
+    "internships": {
+      "swc_internship_status_1": "Coming soon",
+      "swc_internship_status_2": "Active",
+      "swc_internship_status_3": "In progress",
+      "swc_internship_status_4": "Finished",
+      "swc_internship_application_deadline": "Application deadline",
+      "swc_internship_start_date": "Program start",
+      "swc_internship_duration": "Program duration"
+    }
+  },
+  "seo": {
+    "meta": {
+      "post": {
+        "titles_title": "%%post_title%% | Star Insights",
+        "titles_desc": "Explore insights from Star Experts on %%post_title%%.",
+        "display_date": true
+      },
+      "page": {
+        "titles_title": "%%post_title%% | Star",
+        "titles_desc": "We make every great person, every great idea and every great company shine."
+      },
+      "case": {
+        "titles_desc": "%%post_excerpt%%",
+        "display_date": true
+      },
+      "event": {
+        "titles_desc": "%%post_excerpt%%",
+        "display_date": true
+      },
+      "industry_page": {
+        "titles_desc": "%%post_excerpt%%"
+      },
+      "job": {
+        "titles_title": "%%post_title%% in %%city%%, %%country%% | Star Careers",
+        "titles_desc": "Looking for a job as a %%post_title%% in %%city%%, %%country%%? Apply for a position by sending your CV and become a part of the Star %%job_team%% Team!"
+      },
+      "home": {
+        "title_template": "Star",
+        "description_template": "We make every great person, every great idea and every great company shine."
+      }
+    }
+  }
+}

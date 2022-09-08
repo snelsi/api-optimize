@@ -20,10 +20,7 @@
         "data": {
           "title": "GTM Script",
           "content": "<!-- Google Tag Manager -->\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-MFDNZBK');</script>\r\n<!-- End Google Tag Manager -->"
-        },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        }
       },
       {
         "instanceId": "70e5540848ceb0820fedcde6feb0c2d2",
@@ -33,16 +30,14 @@
           "content": "<!-- Givebutter Elements -->\r\n<script>\r\n    window.Givebutter=window.Givebutter||function(){(Givebutter.q=Givebutter.q||[]).push(arguments)};Givebutter.l=+new Date;\r\n    window.Givebutter('setOptions',\r\n    {\r\n        \"accountId\": \"GMT2SikLxAEtzkog\"\r\n    });\r\n</script>\r\n<script async src=\"https://js.givebutter.com/elements/latest.js\" ></script>\r\n<!-- End Givebutter Elements -->"
         },
         "condition": "notselected",
-        "target_by_url": "/training-camp\r\n/training-camp/*",
-        "exclude_by_url": ""
+        "target_by_url": "/training-camp\r\n/training-camp/*"
       },
       {
         "instanceId": "8a8697e53b204d25310abfb348145dfb",
         "key": "swc_apple_podcast",
         "data": { "podcast_id": "1519016580" },
         "condition": "selected",
-        "target_by_url": "/posts\r\n/posts/*\r\n/jp/posts\r\n/jp/posts/*",
-        "exclude_by_url": ""
+        "target_by_url": "/posts\r\n/posts/*\r\n/jp/posts\r\n/jp/posts/*"
       }
     ],
     "body-top-widgets": [
@@ -52,10 +47,7 @@
         "data": {
           "title": "GTM No Script",
           "content": "<!-- Google Tag Manager (noscript) -->\r\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MFDNZBK\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<!-- End Google Tag Manager (noscript) -->"
-        },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        }
       }
     ],
     "subheader": [
@@ -67,11 +59,7 @@
             "blockName": "nav-area",
             "attrs": {
               "anchor": "nav-services",
-              "title": "Services",
-              "isMobileHidden": false,
-              "isDesktopHidden": false,
-              "isZeroMarginTop": false,
-              "isZeroMarginBottom": false
+              "title": "Services"
             },
             "innerBlocks": [
               {
@@ -86,9 +74,6 @@
                     "url": "https://star.global/strategy/",
                     "title": "Star Strategy Landing",
                     "type": "page",
-                    "target": "_self",
-                    "rel": "",
-                    "opensInNewTab": false,
                     "path": "/strategy/"
                   },
                   "button": {
@@ -96,13 +81,8 @@
                     "skin": "greenBlack",
                     "size": "sm",
                     "label": "Explore our expertise",
-                    "withArrow": true,
                     "icon": "arrow"
-                  },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  }
                 }
               },
               {
@@ -117,9 +97,6 @@
                     "url": "https://star.global/design/",
                     "title": "Star Design Landing",
                     "type": "page",
-                    "target": "_self",
-                    "rel": "",
-                    "opensInNewTab": false,
                     "path": "/design/"
                   },
                   "button": {
@@ -127,13 +104,8 @@
                     "skin": "greenBlack",
                     "size": "sm",
                     "label": "Explore our expertise",
-                    "withArrow": true,
                     "icon": "arrow"
-                  },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  }
                 }
               },
               {
@@ -148,9 +120,6 @@
                     "url": "https://star.global/engineering/",
                     "title": "Star Engineering Landing",
                     "type": "page",
-                    "target": "_self",
-                    "rel": "",
-                    "opensInNewTab": false,
                     "path": "/engineering/"
                   },
                   "button": {
@@ -158,13 +127,8 @@
                     "skin": "greenBlack",
                     "size": "sm",
                     "label": "Explore our expertise",
-                    "withArrow": true,
                     "icon": "arrow"
-                  },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  }
                 }
               }
             ]
@@ -173,11 +137,7 @@
             "blockName": "nav-area",
             "attrs": {
               "anchor": "nav-insights",
-              "title": "Insights",
-              "isMobileHidden": false,
-              "isDesktopHidden": false,
-              "isZeroMarginTop": false,
-              "isZeroMarginBottom": false
+              "title": "Insights"
             },
             "innerBlocks": [
               {
@@ -192,9 +152,6 @@
                     "url": "https://star.global/posts/",
                     "title": "Posts",
                     "type": "page",
-                    "target": "_self",
-                    "rel": "",
-                    "opensInNewTab": false,
                     "path": "/posts/"
                   },
                   "button": {
@@ -202,13 +159,8 @@
                     "skin": "greenBlack",
                     "size": "sm",
                     "label": "Read now",
-                    "withArrow": true,
                     "icon": "arrow"
-                  },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  }
                 }
               },
               {
@@ -219,9 +171,6 @@
                   "theme": "green",
                   "description": "Feature-length content on technology, transformation, industry evolution and the people behind all this change",
                   "link": {
-                    "target": "_self",
-                    "rel": "",
-                    "opensInNewTab": false,
                     "path": "/posts/?content_type=3515",
                     "title": "Cutting-edge product development processes that create Digital Loyalty",
                     "type": "URL",
@@ -232,13 +181,8 @@
                     "skin": "greenBlack",
                     "size": "sm",
                     "label": "Learn now",
-                    "withArrow": true,
                     "icon": "arrow"
-                  },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  }
                 }
               },
               {
@@ -249,10 +193,7 @@
                   "theme": "green",
                   "description": "Discover how today\u2019s brightest minds ensure their ideas, products and goals truly shine",
                   "link": {
-                    "opensInNewTab": false,
                     "path": "/shine-podcasts/",
-                    "target": "_self",
-                    "rel": "",
                     "title": "Podcasts",
                     "type": "page",
                     "id": 37538,
@@ -263,13 +204,8 @@
                     "skin": "greenBlack",
                     "size": "sm",
                     "label": "Listen now",
-                    "withArrow": true,
                     "icon": "arrow"
-                  },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  }
                 }
               }
             ]
@@ -277,11 +213,7 @@
           {
             "blockName": "nav-area",
             "attrs": {
-              "anchor": "nav-industries",
-              "isMobileHidden": false,
-              "isDesktopHidden": false,
-              "isZeroMarginTop": false,
-              "isZeroMarginBottom": false
+              "anchor": "nav-industries"
             },
             "innerBlocks": [
               {
@@ -296,16 +228,13 @@
                     "url": "https://star.global/industry/automotive/",
                     "title": "Automotive",
                     "type": "industry_page",
-                    "path": "/industry/automotive/",
-                    "target": "_self",
-                    "rel": ""
+                    "path": "/industry/automotive/"
                   },
                   "button": {
                     "type": "solid",
                     "skin": "greenBlack",
                     "size": "sm",
                     "label": "Explore our expertise",
-                    "withArrow": true,
                     "icon": "arrow"
                   },
                   "background": {
@@ -316,17 +245,11 @@
                     "alt": "Automotive and Mobility - Hover-min",
                     "title": "Hover-min",
                     "filename": "Hover-min-1.jpg",
-                    "placeholder": [],
-                    "withSize": true,
                     "mediaFocus": { "x": 0.5, "y": 0.5 },
                     "size": { "width": 728, "height": 452 },
                     "thumbnail": "data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgABQAFAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A8PsNb1DToylpcmJWOSAoOfzooooA/9k="
                   },
-                  "className": "is-style-bg-custom",
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "className": "is-style-bg-custom"
                 }
               },
               {
@@ -340,9 +263,6 @@
                     "title": "Cutting-edge product development processes that create Digital Loyalty",
                     "type": "industry_page",
                     "path": "/industry/healthtech/",
-                    "target": "_self",
-                    "rel": "",
-                    "opensInNewTab": false,
                     "id": 52520,
                     "url": "https://star.global/industry/healthtech/",
                     "kind": "post-type"
@@ -352,7 +272,6 @@
                     "skin": "greenBlack",
                     "size": "sm",
                     "label": "Explore our expertise",
-                    "withArrow": true,
                     "icon": "arrow"
                   },
                   "background": {
@@ -364,11 +283,7 @@
                     "size": { "width": 1092, "height": 678 },
                     "thumbnail": "data:;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgABQAFAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AxtHe5v7ddRW7ngkuo42ZY3IAG0EDjGcbjRRRXBVnKMmkelRgpQTZ/9k="
                   },
-                  "className": "is-style-bg-custom",
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "className": "is-style-bg-custom"
                 }
               },
               {
@@ -384,17 +299,14 @@
                     "title": "AdTech & MarTech",
                     "type": "industry_page",
                     "kind": "post-type",
-                    "path": "/industry/adtech-martech/",
-                    "target": "_self",
-                    "rel": ""
+                    "path": "/industry/adtech-martech/"
                   },
                   "button": {
                     "type": "solid",
                     "skin": "greenBlack",
                     "size": "sm",
                     "label": "Explore our expertise",
-                    "icon": "arrow",
-                    "link": []
+                    "icon": "arrow"
                   },
                   "background": {
                     "id": 73187,
@@ -405,11 +317,7 @@
                     "size": { "width": 1024, "height": 636 },
                     "thumbnail": "data:;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgABQAFAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A8l+ImgWmg661rA006kLJvnIL/MisQcADqx7UUUVyrZHc9z//2Q=="
                   },
-                  "className": "is-style-bg-custom",
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "className": "is-style-bg-custom"
                 }
               },
               {
@@ -423,9 +331,6 @@
                     "title": "Cutting-edge product development processes that create Digital Loyalty",
                     "type": "industry_page",
                     "path": "/industry/fintech/",
-                    "target": "_self",
-                    "rel": "",
-                    "opensInNewTab": false,
                     "id": 52517,
                     "url": "https://star.global/industry/fintech/",
                     "kind": "post-type"
@@ -435,7 +340,6 @@
                     "skin": "greenBlack",
                     "size": "sm",
                     "label": "Explore our expertise",
-                    "withArrow": true,
                     "icon": "arrow"
                   },
                   "background": {
@@ -447,11 +351,7 @@
                     "size": { "width": 1092, "height": 678 },
                     "thumbnail": "data:;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgABQAFAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5nRr+LUrITanA9xICVVo2VDjPfKtn9P8CiimoRau0ZurOLsmf//Z"
                   },
-                  "className": "is-style-bg-custom",
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "className": "is-style-bg-custom"
                 }
               }
             ]
@@ -459,11 +359,7 @@
           {
             "blockName": "nav-area",
             "attrs": {
-              "anchor": "nav-careers",
-              "isMobileHidden": false,
-              "isDesktopHidden": false,
-              "isZeroMarginTop": false,
-              "isZeroMarginBottom": false
+              "anchor": "nav-careers"
             },
             "innerBlocks": [
               {
@@ -475,19 +371,13 @@
                   "description": "At Star, we work relentlessly to make every great idea, every great person and every great company shine",
                   "link": {
                     "path": "/values-benefits/",
-                    "target": "_self",
-                    "rel": "",
                     "title": "Cutting-edge product development processes that create Digital Loyalty",
                     "id": 59786,
                     "url": "https://star.global/values-benefits/",
                     "type": "page",
                     "kind": "post-type"
                   },
-                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Explore now", "icon": "arrow", "link": [] },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Explore now", "icon": "arrow" }
                 }
               },
               {
@@ -502,16 +392,10 @@
                     "type": "page",
                     "kind": "post-type",
                     "path": "/careers/",
-                    "target": "_self",
-                    "rel": "",
                     "id": 60005,
                     "url": "https://star.global/careers/"
                   },
-                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Explore now", "icon": "arrow", "link": [] },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Explore now", "icon": "arrow" }
                 }
               },
               {
@@ -527,15 +411,9 @@
                     "url": "https://star.global/training-camp/",
                     "type": "page",
                     "kind": "post-type",
-                    "path": "/training-camp/",
-                    "target": "_self",
-                    "rel": ""
+                    "path": "/training-camp/"
                   },
-                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Grow with Star", "icon": "arrow", "link": [] },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Grow with Star", "icon": "arrow" }
                 }
               }
             ]
@@ -543,11 +421,7 @@
           {
             "blockName": "nav-area",
             "attrs": {
-              "anchor": "nav-about",
-              "isMobileHidden": false,
-              "isDesktopHidden": false,
-              "isZeroMarginTop": false,
-              "isZeroMarginBottom": false
+              "anchor": "nav-about"
             },
             "innerBlocks": [
               {
@@ -562,16 +436,10 @@
                     "type": "page",
                     "kind": "post-type",
                     "path": "/about/",
-                    "target": "_self",
-                    "rel": "",
                     "id": 47,
                     "url": "https://star.global/about/"
                   },
-                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Learn more", "icon": "arrow", "link": [] },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Learn more", "icon": "arrow" }
                 }
               },
               {
@@ -581,12 +449,8 @@
                   "title": "<strong>Meet our founder</strong>",
                   "theme": "green",
                   "description": "Explore first-hand groundbreaking insights",
-                  "link": { "url": "https://juha.star.global/", "path": "https://juha.star.global/", "target": "_self", "rel": "" },
-                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Learn more", "icon": "arrow", "link": [] },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "link": { "url": "https://juha.star.global/", "path": "https://juha.star.global/" },
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Learn more", "icon": "arrow" }
                 }
               },
               {
@@ -602,23 +466,14 @@
                     "title": "M&amp;A",
                     "type": "page",
                     "kind": "post-type",
-                    "path": "/mergers-and-acquisitions/",
-                    "target": "_self",
-                    "rel": ""
+                    "path": "/mergers-and-acquisitions/"
                   },
-                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Learn more", "icon": "arrow", "link": [] },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "button": { "type": "link", "skin": "greenBlack", "size": "sm", "label": "Learn more", "icon": "arrow" }
                 }
               }
             ]
           }
-        ],
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        ]
       }
     ],
     "supfooter": [
@@ -639,11 +494,7 @@
                 { "anchor": "tabs-noth", "title": "Latin America", "count": 1 },
                 { "anchor": "tabs-europe", "title": "europe", "count": 7 },
                 { "anchor": "tabs-asia", "title": "asia", "count": 3 }
-              ],
-              "isMobileHidden": false,
-              "isDesktopHidden": false,
-              "isZeroMarginTop": false,
-              "isZeroMarginBottom": false
+              ]
             },
             "innerBlocks": [
               {
@@ -657,7 +508,6 @@
                       "id": 21,
                       "name": "Sunnyvale",
                       "email": "hellosunnyvale@star.global",
-                      "phone": "",
                       "address": "1250 Borregas Ave<br />\r\nSunnyvale, CA 94089",
                       "timediff": -7,
                       "timezone": "America/Los_Angeles",
@@ -667,7 +517,6 @@
                       "id": 28,
                       "name": "San Francisco",
                       "email": "hellosanfrancisco@star.global",
-                      "phone": "",
                       "address": "520 Hampshire Street, Suite 213<br />\r\nSan Francisco, CA 94110",
                       "timediff": -7,
                       "timezone": "America/Los_Angeles",
@@ -677,7 +526,6 @@
                       "id": 24,
                       "name": "New York",
                       "email": "hellonewyork@star.global",
-                      "phone": "",
                       "address": "114 E 25th St, <br />\r\nNew York, NY 10010",
                       "timediff": -4,
                       "timezone": "America/New_York",
@@ -686,9 +534,6 @@
                     {
                       "id": 50894,
                       "name": "Dallas",
-                      "email": "",
-                      "phone": "",
-                      "address": "",
                       "timediff": -5,
                       "timezone": "America/Lima",
                       "country": { "label": "United States", "code": "US" }
@@ -699,19 +544,12 @@
                     "url": "https://cdn.star.global/wp-content/uploads/2021/11/30073233/North-America-Big.svg",
                     "type": "image",
                     "mime": "image/svg+xml",
-                    "alt": "",
                     "title": "North America, Big",
                     "filename": "North-America-Big.svg",
-                    "placeholder": [],
-                    "withSize": true,
                     "mediaFocus": { "x": 0.28, "y": 0.34 },
                     "contentTheme": "dark",
                     "size": { "width": "1440", "height": "314" }
-                  },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  }
                 }
               },
               {
@@ -724,9 +562,6 @@
                     {
                       "id": 70026,
                       "name": "Medell\u00edn",
-                      "email": "",
-                      "phone": "",
-                      "address": "",
                       "timediff": -5,
                       "timezone": "America/Bogota",
                       "country": { "label": "Colombia", "code": "CO" }
@@ -737,19 +572,12 @@
                     "url": "https://cdn.star.global/wp-content/uploads/2021/11/30073135/Latin-America-Big.svg",
                     "type": "image",
                     "mime": "image/svg+xml",
-                    "alt": "",
                     "title": "Latin America, Big",
                     "filename": "Latin-America-Big.svg",
-                    "placeholder": [],
-                    "withSize": true,
                     "mediaFocus": { "x": 0.35, "y": 0.68 },
                     "contentTheme": "dark",
                     "size": { "width": "1440", "height": "314" }
-                  },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  }
                 }
               },
               {
@@ -773,7 +601,6 @@
                       "id": 27,
                       "name": "London",
                       "email": "hellolondon@star.global",
-                      "phone": "",
                       "address": "24 Greville St, <br />\r\nLondon EC1N 8SS, <br />\r\nUnited Kingdom",
                       "timediff": 1,
                       "timezone": "Europe/London",
@@ -803,7 +630,6 @@
                       "id": 22518,
                       "name": "Frankfurt",
                       "email": "hellofrankfurt@star.global",
-                      "phone": "",
                       "address": "Neue Mainzer Str. 66<br />\r\n60311 Frankfurt am Main",
                       "timediff": 2,
                       "timezone": "Europe/Berlin",
@@ -822,8 +648,6 @@
                     {
                       "id": 55819,
                       "name": "Milano",
-                      "email": "",
-                      "phone": "",
                       "address": "Copernico Isola S32<br />\r\nVia Sassetti, 32<br />\r\n20124, Milano",
                       "timediff": 2,
                       "timezone": "Europe/Rome",
@@ -835,19 +659,12 @@
                     "url": "https://cdn.star.global/wp-content/uploads/2021/11/30072930/Europe-Big.svg",
                     "type": "image",
                     "mime": "image/svg+xml",
-                    "alt": "",
                     "title": "Europe, Big",
                     "filename": "Europe-Big.svg",
-                    "placeholder": [],
-                    "withSize": true,
                     "mediaFocus": { "x": 0.53, "y": 0.2 },
                     "contentTheme": "dark",
                     "size": { "width": "1440", "height": "314" }
-                  },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  }
                 }
               },
               {
@@ -861,7 +678,6 @@
                       "id": 30,
                       "name": "Tokyo",
                       "email": "hellojapan@star.global",
-                      "phone": "",
                       "address": "6-12-18 Jingumae<br />\r\nShibuya-ku<br />\r\nTokyo, 150-0001",
                       "timediff": 9,
                       "timezone": "Asia/Tokyo",
@@ -871,7 +687,6 @@
                       "id": 824,
                       "name": "Ho Chi Minh City",
                       "email": "hellovietnam@star.global",
-                      "phone": "",
                       "address": "4th Floor<br />\r\n26 Huynh Khuong Ninh Street<br />\r\nDa Kao Ward<br />\r\nDistrict 1, Ho Chi Minh City",
                       "timediff": 7,
                       "timezone": "Asia/Ho_Chi_Minh",
@@ -880,9 +695,6 @@
                     {
                       "id": 74472,
                       "name": "Shanghai",
-                      "email": "",
-                      "phone": "",
-                      "address": "",
                       "timediff": 8,
                       "timezone": "Asia/Shanghai",
                       "country": { "label": "China", "code": "CN" }
@@ -893,27 +705,19 @@
                     "url": "https://cdn.star.global/wp-content/uploads/2021/11/30073415/Asia-Big.svg",
                     "type": "image",
                     "mime": "image/svg+xml",
-                    "alt": "",
                     "title": "Asia, Big",
                     "filename": "Asia-Big.svg",
-                    "placeholder": [],
-                    "withSize": true,
                     "mediaFocus": { "x": 0.75, "y": 0.34 },
                     "contentTheme": "dark",
                     "size": { "width": "1440", "height": "314" }
-                  },
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  }
                 }
               }
             ]
           }
         ],
         "condition": "notselected",
-        "target_by_url": "/financial-services-digital-solutions\r\n/automotive-retail-solutions\r\n/shine-podcasts\r\n/posts\r\n/careers\r\n/values-benefits\r\n/test-for-video-sections\r\n/training-camp\r\n/training-camp/*",
-        "exclude_by_url": ""
+        "target_by_url": "/financial-services-digital-solutions\r\n/automotive-retail-solutions\r\n/shine-podcasts\r\n/posts\r\n/careers\r\n/values-benefits\r\n/test-for-video-sections\r\n/training-camp\r\n/training-camp/*"
       }
     ],
     "footer-1": [
@@ -921,29 +725,21 @@
         "instanceId": "8eea74b891e81d28e33f4dfcdc97deb0",
         "key": "text",
         "data": {
-          "title": "",
           "text": "Star is a global team of <strong>product creators</strong>. We connect strategy, design and engineering services into a seamless workflow devised to build solutions with the right focus on impact, scalability, performance and prudence.",
           "filter": true,
           "visual": true,
           "pll_lang": "en"
-        },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        }
       },
       {
         "instanceId": "645f37f2bdb0f9d52a30aee7ead6b5d5",
         "key": "swc_socials",
         "data": {
-          "title": "",
           "facebook": "https://www.facebook.com/starglobally",
           "twitter": "https://twitter.com/starglobally",
           "linkedin": "https://www.linkedin.com/company/starglobal",
           "instagram": "https://www.instagram.com/star.product.creators/"
-        },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        }
       }
     ],
     "footer-2": [
@@ -956,10 +752,7 @@
           "filter": true,
           "visual": true,
           "pll_lang": "en"
-        },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        }
       },
       {
         "instanceId": "51fa625358de65c8e1c179d77d126782",
@@ -974,21 +767,13 @@
                 "id": "2019cc32-e1bd-43dc-8c06-0d934c63744f",
                 "name": "[Star][EN] Footer Subsciption Form",
                 "instanceId": "ab5456f5-1410-46f0-a8a4-5dee862acb18"
-              },
-              "isMobileHidden": false,
-              "isDesktopHidden": false,
-              "isZeroMarginTop": false,
-              "isZeroMarginBottom": false
+              }
             },
             "innerBlocks": [
               {
                 "blockName": "form-confirmation",
                 "attrs": {
-                  "instanceId": "e451adcf-f584-4a36-9a29-7723d2cc2059",
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "instanceId": "e451adcf-f584-4a36-9a29-7723d2cc2059"
                 },
                 "innerBlocks": [
                   {
@@ -997,11 +782,7 @@
                       "className": "text-sm",
                       "instanceId": "b194fbec-66da-433c-8335-551dcb71d047",
                       "text": "Thank you for your interest!",
-                      "format": "text-sm",
-                      "isMobileHidden": false,
-                      "isDesktopHidden": false,
-                      "isZeroMarginTop": false,
-                      "isZeroMarginBottom": false
+                      "format": "text-sm"
                     }
                   }
                 ]
@@ -1009,11 +790,7 @@
               {
                 "blockName": "form-error",
                 "attrs": {
-                  "instanceId": "a67d5095-6812-4d83-93af-8ac34eff24c1",
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "instanceId": "a67d5095-6812-4d83-93af-8ac34eff24c1"
                 },
                 "innerBlocks": [
                   {
@@ -1022,31 +799,21 @@
                       "className": "text-sm",
                       "instanceId": "51307aa8-a259-425e-a876-bcbb39142539",
                       "text": "Something went wrong. Please try again later.",
-                      "format": "text-sm",
-                      "isMobileHidden": false,
-                      "isDesktopHidden": false,
-                      "isZeroMarginTop": false,
-                      "isZeroMarginBottom": false
+                      "format": "text-sm"
                     }
                   }
                 ]
               }
             ]
           }
-        ],
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        ]
       }
     ],
     "footer-3": [
       {
         "instanceId": "0e9a8d9032a33955ce9fa3deea9706b9",
         "key": "text",
-        "data": { "title": "Contacts", "text": "", "filter": true, "visual": true, "pll_lang": "en" },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        "data": { "title": "Contacts", "filter": true, "visual": true, "pll_lang": "en" }
       },
       {
         "instanceId": "5eb8ec0829b8cc6f5f9cc6808db5c3e2",
@@ -1055,11 +822,7 @@
           {
             "blockName": "buttons",
             "attrs": {
-              "instanceId": "2eae2e2b-5e03-4124-8f82-4f1b0d155c7f",
-              "isMobileHidden": false,
-              "isDesktopHidden": false,
-              "isZeroMarginTop": false,
-              "isZeroMarginBottom": false
+              "instanceId": "2eae2e2b-5e03-4124-8f82-4f1b0d155c7f"
             },
             "innerBlocks": [
               {
@@ -1070,41 +833,28 @@
                   "link": {
                     "url": "https://star.global/contact/",
                     "title": "Contact",
-                    "path": "https://star.global/contact/",
-                    "target": "_self",
-                    "rel": ""
+                    "path": "https://star.global/contact/"
                   },
                   "skin": "greenPurple",
                   "size": "sm",
                   "mobileSize": "full-width",
                   "type": "solid",
-                  "icon": "arrow",
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+                  "icon": "arrow"
                 }
               }
             ]
           }
-        ],
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        ]
       },
       {
         "instanceId": "daddcfa3491f11446e25c93d47cce916",
         "key": "text",
         "data": {
-          "title": "",
           "text": "<div>Or write us at <a title=\"Write us\" href=\"mailto:hellostar@star.global\">hellostar@star.global</a></div>",
           "filter": true,
           "visual": true,
           "pll_lang": "en"
-        },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        }
       }
     ],
     "footer-bottom": [
@@ -1112,15 +862,11 @@
         "instanceId": "830b25410b1574115f9f479121e461ce",
         "key": "text",
         "data": {
-          "title": "",
           "text": "\u00a9 Copyright Star 2022. All rights reserved <a title=\"Privacy Policy\" href=\"https://star.global/privacy-policy/\">Privacy\u00a0Policy</a>",
           "filter": true,
           "visual": true,
           "pll_lang": "en"
-        },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        }
       },
       {
         "instanceId": "4f7133c47d43fa762ca5f05a9b7fe7a4",
@@ -1130,11 +876,7 @@
             "blockName": "cookies-consent",
             "attrs": {
               "title": "We use cookies",
-              "content": "That\u2019s how we improve the website experience with analytics and personalization.<br>By continuing to browse you agree to our use of cookies. You can find more information <a href=\"https://star.global/privacy-policy/\" data-type=\"page\" data-id=\"187\">here</a>",
-              "isMobileHidden": false,
-              "isDesktopHidden": false,
-              "isZeroMarginTop": false,
-              "isZeroMarginBottom": false
+              "content": "That\u2019s how we improve the website experience with analytics and personalization.<br>By continuing to browse you agree to our use of cookies. You can find more information <a href=\"https://star.global/privacy-policy/\" data-type=\"page\" data-id=\"187\">here</a>"
             },
             "innerBlocks": [
               {
@@ -1145,20 +887,13 @@
                   "skin": "whiteGreen",
                   "size": "md",
                   "type": "button",
-                  "withArrow": true,
-                  "className": "is-style-button",
-                  "isMobileHidden": false,
-                  "isDesktopHidden": false,
-                  "isZeroMarginTop": false,
-                  "isZeroMarginBottom": false
+
+                  "className": "is-style-button"
                 }
               }
             ]
           }
-        ],
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        ]
       }
     ],
     "blog-post-author": [
@@ -1174,8 +909,7 @@
           "is_blank_target": "on"
         },
         "condition": "hide",
-        "target_by_url": "/cn/posts/enterprise-design-thinking",
-        "exclude_by_url": ""
+        "target_by_url": "/cn/posts/enterprise-design-thinking"
       },
       {
         "instanceId": "15be6ea27cba01f80d8c859a8f071015",
@@ -1188,9 +922,7 @@
           "industry": "no-industry",
           "is_blank_target": "on"
         },
-        "condition": "show",
-        "target_by_url": "/cn/posts/enterprise-design-thinking",
-        "exclude_by_url": ""
+        "target_by_url": "/cn/posts/enterprise-design-thinking"
       },
       {
         "instanceId": "3271e9f915c93abe6bb463a40f925c6c",
@@ -1200,12 +932,8 @@
           "description": "Our digital finance experts blend strategy, design and engineering to help our customers harness disruptive technologies and opportunities to build innovative, integrated and frictionless financial services.      ",
           "cta_label": "Explore our expertise",
           "cta_link": "https://star.global/industry/fintech/",
-          "industry": "573",
-          "is_blank_target": null
-        },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+          "industry": "573"
+        }
       },
       {
         "instanceId": "5c9b5698055ecb8dbdc0933828650ea4",
@@ -1217,10 +945,7 @@
           "cta_link": "https://star.global/industry/automotive/",
           "industry": "581",
           "is_blank_target": "on"
-        },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        }
       },
       {
         "instanceId": "83981799ad44fa0b20f8273a69c8fc7e",
@@ -1232,20 +957,14 @@
           "cta_link": "https://star.global/industry/healthtech/",
           "industry": "577",
           "is_blank_target": "on"
-        },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        }
       }
     ],
     "sharing": [
       {
         "instanceId": "10fcdfe38c5240dc7507f14ad7e34a7e",
         "key": "swc_sharing_icons",
-        "data": { "title": "Share opportunity", "icons": "facebook,twitter,linkedin" },
-        "condition": "show",
-        "target_by_url": "",
-        "exclude_by_url": ""
+        "data": { "title": "Share opportunity", "icons": "facebook,twitter,linkedin" }
       }
     ]
   },
@@ -1256,23 +975,12 @@
         "menu_item_parent": "0",
         "url": "https://star.global/our-work/",
         "title": "Our Work",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/our-work/",
-        "hover_link": ""
+        "path": "/our-work/"
       },
       {
         "db_id": 32655,
         "menu_item_parent": "0",
         "title": "Industries",
-        "url": "",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "",
         "hover_link": "#nav-industries"
       },
       {
@@ -1280,59 +988,33 @@
         "menu_item_parent": "32655",
         "title": "Automotive & Mobility",
         "url": "https://star.global/industry/automotive/",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/industry/automotive/",
-        "hover_link": ""
+        "path": "/industry/automotive/"
       },
       {
         "db_id": 33209,
         "menu_item_parent": "32655",
         "title": "HealthTech",
         "url": "https://star.global/industry/healthtech/",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/industry/healthtech/",
-        "hover_link": ""
+        "path": "/industry/healthtech/"
       },
       {
         "db_id": 33210,
         "menu_item_parent": "32655",
         "title": "FinTech",
         "url": "https://star.global/industry/fintech/",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/industry/fintech/",
-        "hover_link": ""
+        "path": "/industry/fintech/"
       },
       {
         "db_id": 73214,
         "menu_item_parent": "32655",
         "title": "AdTech & MarTech",
         "url": "https://star.global/industry/adtech-martech/",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/industry/adtech-martech/",
-        "hover_link": ""
+        "path": "/industry/adtech-martech/"
       },
       {
         "db_id": 26877,
         "menu_item_parent": "0",
         "title": "Services",
-        "url": "",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "",
         "hover_link": "#nav-services"
       },
       {
@@ -1340,47 +1022,26 @@
         "menu_item_parent": "26877",
         "url": "https://star.global/strategy/",
         "title": "Star Strategy",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/strategy/",
-        "hover_link": ""
+        "path": "/strategy/"
       },
       {
         "db_id": 49527,
         "menu_item_parent": "26877",
         "url": "https://star.global/design/",
         "title": "Star Design",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/design/",
-        "hover_link": ""
+        "path": "/design/"
       },
       {
         "db_id": 49528,
         "menu_item_parent": "26877",
         "url": "https://star.global/engineering/",
         "title": "Star Engineering",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/engineering/",
-        "hover_link": ""
+        "path": "/engineering/"
       },
       {
         "db_id": 70435,
         "menu_item_parent": "0",
         "title": "About",
-        "url": "",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "",
         "hover_link": "#nav-about"
       },
       {
@@ -1388,47 +1049,26 @@
         "menu_item_parent": "70435",
         "url": "https://star.global/about/",
         "title": "Our company",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/about/",
-        "hover_link": ""
+        "path": "/about/"
       },
       {
         "db_id": 71729,
         "menu_item_parent": "70435",
         "title": "Meet our founder",
         "url": "https://juha.star.global/",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "https://juha.star.global/",
-        "hover_link": ""
+        "path": "https://juha.star.global/"
       },
       {
         "db_id": 71728,
         "menu_item_parent": "70435",
         "url": "https://star.global/mergers-and-acquisitions/",
         "title": "M&amp;A",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/mergers-and-acquisitions/",
-        "hover_link": ""
+        "path": "/mergers-and-acquisitions/"
       },
       {
         "db_id": 26875,
         "menu_item_parent": "0",
         "title": "Insights",
-        "url": "",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "",
         "hover_link": "#nav-insights"
       },
       {
@@ -1436,46 +1076,27 @@
         "menu_item_parent": "26875",
         "url": "https://star.global/posts/",
         "title": "Articles",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/posts/",
-        "hover_link": ""
+        "path": "/posts/"
       },
       {
         "db_id": 26884,
         "menu_item_parent": "26875",
         "title": "Trend Reports",
         "url": "https://star.global/posts/?content_type=3515",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/posts/?content_type=3515",
-        "hover_link": ""
+        "path": "/posts/?content_type=3515"
       },
       {
         "db_id": 40231,
         "menu_item_parent": "26875",
         "url": "https://star.global/shine-podcasts/",
         "title": "Podcasts",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/shine-podcasts/",
-        "hover_link": ""
+        "path": "/shine-podcasts/"
       },
       {
         "db_id": 60821,
         "menu_item_parent": "0",
         "title": "Careers",
         "url": "https://star.global/careers/",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
         "path": "/careers/",
         "hover_link": "#nav-careers"
       },
@@ -1484,36 +1105,21 @@
         "menu_item_parent": "60821",
         "url": "https://star.global/values-benefits/",
         "title": "Why Star",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/values-benefits/",
-        "hover_link": ""
+        "path": "/values-benefits/"
       },
       {
         "db_id": 60824,
         "menu_item_parent": "60821",
         "url": "https://star.global/careers/",
         "title": "Job Openings",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/careers/",
-        "hover_link": ""
+        "path": "/careers/"
       },
       {
         "db_id": 73997,
         "menu_item_parent": "60821",
         "url": "https://star.global/training-camp/",
         "title": "Training Camp",
-        "target": "",
-        "attr_title": "",
-        "classes": [""],
-        "xfn": "",
-        "path": "/training-camp/",
-        "hover_link": ""
+        "path": "/training-camp/"
       }
     ],
     "header-side": [
@@ -1522,12 +1128,9 @@
         "menu_item_parent": "0",
         "url": "https://star.global/contact/",
         "title": "Contact Us",
-        "target": "",
         "attr_title": "Contact Us",
         "classes": ["btn"],
-        "xfn": "",
         "path": "/contact/",
-        "hover_link": "",
         "skin": "blackGreen",
         "size": "md",
         "type": "solid",
@@ -1562,24 +1165,6 @@
     }
   },
   "strings": {
-    "LocalBusiness": "LocalBusiness",
-    "00": "00",
-    "%%sitetitle%%": "%%sitetitle%%",
-    "%%cpt_plural%% %%current_pagination%% %%sep%% %%sitetitle%%": "%%cpt_plural%% %%current_pagination%% %%sep%% %%sitetitle%%",
-    "%%post_author%% %%sep%% %%sitetitle%%": "%%post_author%% %%sep%% %%sitetitle%%",
-    "%%archive_date%% %%sep%% %%sitetitle%%": "%%archive_date%% %%sep%% %%sitetitle%%",
-    "%%search_keywords%% %%sep%% %%sitetitle%%": "%%search_keywords%% %%sep%% %%sitetitle%%",
-    "404 - Page not found %%sep%% %%sitetitle%%": "404 - Page not found %%sep%% %%sitetitle%%",
-    "%%_category_title%% %%current_pagination%% %%sep%% %%sitetitle%%": "%%_category_title%% %%current_pagination%% %%sep%% %%sitetitle%%",
-    "%%_category_description%%": "%%_category_description%%",
-    "%%tag_title%% %%current_pagination%% %%sep%% %%sitetitle%%": "%%tag_title%% %%current_pagination%% %%sep%% %%sitetitle%%",
-    "%%tag_description%%": "%%tag_description%%",
-    "%%term_title%% %%current_pagination%% %%sep%% %%sitetitle%%": "%%term_title%% %%current_pagination%% %%sep%% %%sitetitle%%",
-    "%%term_description%%": "%%term_description%%",
-    "Star": "Star",
-    "We make every great person, every great idea and every great company shine.": "We make every great person, every great idea and every great company shine.",
-    "F j, Y": "F j, Y",
-    "g:i A": "g:i A",
     "swc_general_share_label": "Share",
     "swc_general_modal_close_label": "Back to page",
     "swc_article_nav_title": "Table of contents",
@@ -1590,22 +1175,6 @@
     "swc_article_related_articles_title": "You may also like...",
     "swc_article_back_label": "Back to all materials",
     "swc_articles_filtered_title": "Our insights for you",
-    "cases": "cases",
-    "events": "events",
-    "careers": "careers",
-    "industry": "industry",
-    "category": "category",
-    "tag": "tag",
-    "type": "type",
-    "author": "author",
-    "search": "search",
-    "attachment": "attachment",
-    "page": "page",
-    "posts": "posts",
-    "GTM Script": "GTM Script",
-    "New": "New",
-    "GTM No Script": "GTM No Script",
-    "' . $options_set3 . '": "",
     "swc_careers_back_label": "Back to all opportunities",
     "swc_job_remote_hint": "Available in this country only",
     "swc_careers_cta_tile_link_label": "Discover",
@@ -1630,23 +1199,9 @@
     "swc_careers_filtered_cta_link": "/contact#send-cv",
     "swc_careers_no_content_title": "Oops!",
     "swc_careers_no_content": "Unfortunately, there are no results for this search. Please try another filtering option or submit your CV to <a href=\"mailto:careers@star.global\" target=\"_blank\">careers@star.global</a> in case of any future job openings.",
-    "' . $options_set2 . '": "' . $options_set2 . '",
     "swc_general_location_request": "Star wants to track your location!",
     "swc_articles_no_content": "Unfortunately, we don\u2019t have what to show you now. Try to find what you want through filtering or dive into all materials.",
     "swc_articles_no_content_title": "Oh, no!",
-    "%%post_title%% in %%city%%, %%country%% %%sep%% %%sitetitle%% Careers": "%%post_title%% in %%city%%, %%country%% %%sep%% %%sitetitle%% Careers",
-    "Looking for a job as a %%post_title%% in %%city%%, %%country%%? Apply for a position by sending your CV and become a part of the Star %%job_team%% Team!": "Looking for a job as a %%post_title%% in %%city%%, %%country%%? Apply for a position by sending your CV and become a part of the Star %%job_team%% Team!",
-    "%%article_summary%%\r\n%%authors%%\r\n%%authors_names%%\r\n%%article_content_type%%\r\n%%labels%%": "%%article_summary%%\r\n%%authors%%\r\n%%authors_names%%\r\n%%article_content_type%%\r\n%%labels%%",
-    "%%post_title%% %%sep%% %%sitetitle%% Insights": "%%post_title%% %%sep%% %%sitetitle%% Insights",
-    "Explore insights from Star Experts on %%post_title%%.": "Explore insights from Star Experts on %%post_title%%.",
-    "large": "large",
-    "Active": "Active",
-    "Coming soon": "Coming soon",
-    "In progress": "In progress",
-    "Finished": "Finished",
-    "Application deadline": "Application deadline",
-    "Program start": "Program start",
-    "Program duration": "Program duration",
     "swc_internship_status_1": "Coming soon",
     "swc_internship_status_2": "Active",
     "swc_internship_status_3": "In progress",
@@ -1689,50 +1244,26 @@
       "post": {
         "titles_title": "%%post_title%% | Star Insights",
         "titles_desc": "Explore insights from Star Experts on %%post_title%%.",
-        "disabled_robots_index": false,
-        "disabled_robots_follow": false,
-        "display_date": true,
-        "display_thumb": false
+        "display_date": true
       },
       "page": {
         "titles_title": "%%post_title%% | Star",
-        "titles_desc": "We make every great person, every great idea and every great company shine.",
-        "disabled_robots_index": false,
-        "disabled_robots_follow": false,
-        "display_date": false,
-        "display_thumb": false
+        "titles_desc": "We make every great person, every great idea and every great company shine."
       },
       "case": {
-        "titles_title": "%%post_title%% | Star",
         "titles_desc": "%%post_excerpt%%",
-        "disabled_robots_index": false,
-        "disabled_robots_follow": false,
-        "display_date": true,
-        "display_thumb": false
+        "display_date": true
       },
       "event": {
-        "titles_title": "%%post_title%% | Star",
         "titles_desc": "%%post_excerpt%%",
-        "disabled_robots_index": false,
-        "disabled_robots_follow": false,
-        "display_date": true,
-        "display_thumb": false
+        "display_date": true
       },
       "industry_page": {
-        "titles_title": "%%post_title%% | Star",
-        "titles_desc": "%%post_excerpt%%",
-        "disabled_robots_index": false,
-        "disabled_robots_follow": false,
-        "display_date": false,
-        "display_thumb": false
+        "titles_desc": "%%post_excerpt%%"
       },
       "job": {
         "titles_title": "%%post_title%% in %%city%%, %%country%% | Star Careers",
-        "titles_desc": "Looking for a job as a %%post_title%% in %%city%%, %%country%%? Apply for a position by sending your CV and become a part of the Star %%job_team%% Team!",
-        "disabled_robots_index": false,
-        "disabled_robots_follow": false,
-        "display_date": false,
-        "display_thumb": false
+        "titles_desc": "Looking for a job as a %%post_title%% in %%city%%, %%country%%? Apply for a position by sending your CV and become a part of the Star %%job_team%% Team!"
       },
       "home": {
         "title_template": "Star",

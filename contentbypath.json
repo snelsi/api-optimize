@@ -4,81 +4,14 @@
   "content": [
     {
       "blockName": "section-content-nav",
-      "attrs": {
-        "instanceId": "32e72736-9075-4ccf-b283-7e4fff2e0f69",
-        "topLabel": "",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
-      },
+      "attrs": { "instanceId": "32e72736-9075-4ccf-b283-7e4fff2e0f69", "topLabel": "" },
       "innerBlocks": [
-        {
-          "blockName": "content-nav-item",
-          "attrs": {
-            "label": "How we work",
-            "refAnchor": "how_we_work",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          }
-        },
-        {
-          "blockName": "content-nav-item",
-          "attrs": {
-            "label": "What we do",
-            "refAnchor": "what_we_do",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          }
-        },
-        {
-          "blockName": "content-nav-item",
-          "attrs": {
-            "label": "Methods",
-            "refAnchor": "methods",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          }
-        },
-        {
-          "blockName": "content-nav-item",
-          "attrs": {
-            "label": "Why us",
-            "refAnchor": "why_us",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          }
-        },
-        {
-          "blockName": "content-nav-item",
-          "attrs": {
-            "label": "Culture",
-            "refAnchor": "culture",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          }
-        },
-        {
-          "blockName": "content-nav-item",
-          "attrs": {
-            "label": "Join us",
-            "refAnchor": "join_us",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          }
-        }
+        { "blockName": "content-nav-item", "attrs": { "label": "How we work", "refAnchor": "how_we_work" } },
+        { "blockName": "content-nav-item", "attrs": { "label": "What we do", "refAnchor": "what_we_do" } },
+        { "blockName": "content-nav-item", "attrs": { "label": "Methods", "refAnchor": "methods" } },
+        { "blockName": "content-nav-item", "attrs": { "label": "Why us", "refAnchor": "why_us" } },
+        { "blockName": "content-nav-item", "attrs": { "label": "Culture", "refAnchor": "culture" } },
+        { "blockName": "content-nav-item", "attrs": { "label": "Join us", "refAnchor": "join_us" } }
       ]
     },
     {
@@ -91,15 +24,13 @@
           "url": "https://cdn.star.global/wp-content/uploads/2022/05/26141326/Desktop-Star-Design-%E2%80%94-Hero.mp4",
           "type": "video",
           "mime": "video/mp4",
-          "alt": "",
-          "title": "Desktop-Star-Design-\u2014-Hero",
-          "filename": "Desktop-Star-Design-\u2014-Hero.mp4",
+          "title": "Desktop-Star-Design-—-Hero",
+          "filename": "Desktop-Star-Design-—-Hero.mp4",
           "placeholder": {
-            "src": "https://star.global/wp-content/uploads/2022/06/Desktop-Star-Design-\u2014-Hero_thumb4-100x100.jpg",
+            "src": "https://star.global/wp-content/uploads/2022/06/Desktop-Star-Design-—-Hero_thumb4-100x100.jpg",
             "width": 100,
             "height": 100
           },
-          "withSize": true,
           "mediaFocus": { "x": 0.59, "y": 0.42 },
           "contentTheme": "light"
         },
@@ -108,21 +39,14 @@
           "url": "https://cdn.star.global/wp-content/uploads/2021/07/21054413/Mobile-Star-Design-%E2%80%94-Hero.mp4",
           "type": "video",
           "mime": "video/mp4",
-          "alt": "",
-          "title": "(Mobile) Star Design \u2014 Hero",
-          "filename": "Mobile-Star-Design-\u2014-Hero.mp4",
-          "withSize": true,
+          "title": "(Mobile) Star Design — Hero",
+          "filename": "Mobile-Star-Design-—-Hero.mp4",
           "mediaFocus": { "x": 0.5, "y": 0.52 },
           "contentTheme": "light"
         },
         "isStretchHeight": true,
         "className": "is-style-bg-custom",
-        "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
@@ -130,14 +54,10 @@
           "attrs": {
             "instanceId": "eade16ce-cf7d-44a0-b866-1dcbfb9a3abd",
             "level": 1,
-            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Star Design. <br>Global Craftspeople</strong>",
+            "text": "Star Design.",
             "align": "left",
             "format": "title-1",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "bold"
           }
         },
         {
@@ -146,42 +66,27 @@
             "align": "left",
             "className": "text-md",
             "instanceId": "9a4a04b4-f87f-462b-a8b8-34698c7195fb",
-            "text": "<span data-font-face=\"light\" class=\"swc-light\">We connect creativity and empathy with technology to&nbsp;co-create inspiring user-driven experiences.</span>",
+            "text": "We connect creativity and empathy with technology to&nbsp;co-create inspiring user-driven experiences.",
             "format": "body-1",
-            "bgColor": "transparent",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "light"
           }
         },
         {
           "blockName": "buttons",
-          "attrs": {
-            "instanceId": "587eeebf-01a7-4bd0-b3a4-ed8f1e6e2f0d",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          },
+          "attrs": { "instanceId": "587eeebf-01a7-4bd0-b3a4-ed8f1e6e2f0d" },
           "innerBlocks": [
             {
               "blockName": "button",
               "attrs": {
                 "instanceId": "c3ef9d51-c38b-4174-933e-88821986ad0b",
                 "label": "Explore our expertise",
-                "link": { "path": "#how_we_work", "target": "_self", "rel": "", "url": "#how_we_work" },
+                "link": { "url": "#how_we_work" },
                 "skin": "blackGreen",
                 "size": "md",
-                "mobileSize": "auto",
                 "type": "link",
                 "icon": "arrow",
                 "className": "is-style-link",
-                "isDesktopHidden": true,
-                "isMobileHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "isDesktopHidden": true
               }
             }
           ]
@@ -194,13 +99,7 @@
         "instanceId": "e286a919-cd9e-4e6d-b545-bbaac193240e",
         "anchor": "how_we_work",
         "theme": "white",
-        "isStretchHeight": false,
-        "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
@@ -208,14 +107,10 @@
           "attrs": {
             "instanceId": "11ef8efe-ccc8-4ccc-a3d3-27daab362201",
             "level": 3,
-            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">We're a global\u00a0team <br>of\u00a0product creators</strong>",
+            "text": "We're a global team <br>of product creators",
             "align": "left",
             "format": "title-1",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "bold"
           }
         },
         {
@@ -223,27 +118,16 @@
           "attrs": {
             "className": "text-md",
             "instanceId": "59e26fe6-b73a-4cc0-86a7-ef92e5486250",
-            "text": "<span class=\"swc-regular\"><span data-font-face=\"light\" class=\"swc-light\">Designing experiences that ignite hearts.</span></span>",
+            "text": "Designing experiences that ignite hearts.",
             "format": "body-1",
-            "bgColor": "transparent",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "light"
           }
         }
       ]
     },
     {
       "blockName": "section-showcase-grid",
-      "attrs": {
-        "instanceId": "857e2331-26df-46f5-a91c-299bd466684c",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
-      },
+      "attrs": { "instanceId": "857e2331-26df-46f5-a91c-299bd466684c" },
       "innerBlocks": [
         {
           "blockName": "section-showcase-tile",
@@ -256,7 +140,6 @@
               "url": "https://cdn.star.global/wp-content/uploads/2022/08/03135727/Star-Team-of-Strategists.mp4",
               "type": "video",
               "mime": "video/mp4",
-              "alt": "",
               "title": "Star-Team-of-Strategists",
               "filename": "Star-Team-of-Strategists.mp4",
               "placeholder": {
@@ -264,13 +147,8 @@
                 "width": 100,
                 "height": 100
               },
-              "withSize": true,
               "mediaFocus": { "x": 0.5, "y": 0.5 }
-            },
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            }
           }
         },
         {
@@ -284,19 +162,12 @@
               "url": "https://cdn.star.global/wp-content/uploads/2021/09/21142609/Desktop-Were-a-team-%E2%88%92-Discovery-centers-network-min.png",
               "type": "image",
               "mime": "image/png",
-              "alt": "",
-              "title": "Desktop-Were-a-team-\u2212-Discovery-centers-network-min",
-              "filename": "Desktop-Were-a-team-\u2212-Discovery-centers-network-min.png",
-              "placeholder": [],
-              "withSize": true,
+              "title": "Desktop-Were-a-team-−-Discovery-centers-network-min",
+              "filename": "Desktop-Were-a-team-−-Discovery-centers-network-min.png",
               "mediaFocus": { "x": 0.5, "y": 0.5 },
               "size": { "width": 1222, "height": 1066 },
-              "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAATklEQVQImV3ByxGAIAxAwcdnhEF7sS1btRw5mMAg8eTFXXfsp43xYCgxFBwOH4IierOtBe8DRide1yAtiVo7rTdyysRpE1HhIyp4M+PvBdfhIgeXfSgtAAAAAElFTkSuQmCC"
-            },
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+              "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMElEQVQImWO43/t/ivf//5f/X23+zyDGsDpP41Wm8pMQ7osMDAxTGBg6GBhqGBh6AZiDEHgtn8iuAAAAAElFTkSuQmCC"
+            }
           }
         },
         {
@@ -310,19 +181,12 @@
               "url": "https://cdn.star.global/wp-content/uploads/2022/08/12004225/Desktop-Were-a-team-%E2%88%92-Design-studios-min-1.png",
               "type": "image",
               "mime": "image/png",
-              "alt": "",
-              "title": "Desktop-Were-a-team-\u2212-Design-studios-min",
-              "filename": "Desktop-Were-a-team-\u2212-Design-studios-min-1.png",
-              "placeholder": [],
-              "withSize": true,
+              "title": "Desktop-Were-a-team-−-Design-studios-min",
+              "filename": "Desktop-Were-a-team-−-Design-studios-min-1.png",
               "mediaFocus": { "x": 0.5, "y": 0.5 },
               "size": { "width": 1222, "height": 1066 },
-              "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAASElEQVQImV3MsQ2DMBAAwHsbRYDEAnSMlVUZiipFBNhPzw1w8d329FIi+IzVOFfr8lPzVjK5r653/leVwgC9pbM1h4mgvD94AMAMFksRxMEwAAAAAElFTkSuQmCC"
-            },
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+              "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMklEQVQImQEnANj/AEsAys+B/92J/3sv6gBoIuL/wP//1P9wJNwAAACbAACLAAB9AACdm3gSCvYwDhkAAAAASUVORK5CYII="
+            }
           }
         },
         {
@@ -336,17 +200,12 @@
               "url": "https://cdn.star.global/wp-content/uploads/2022/08/18044340/Desktop-Industry-Experts-%E2%80%94-Design.mp4",
               "type": "video",
               "mime": "video/mp4",
-              "alt": "",
-              "title": "Desktop-Industry-Experts-\u2014-Design",
-              "filename": "Desktop-Industry-Experts-\u2014-Design.mp4",
+              "title": "Desktop-Industry-Experts-—-Design",
+              "filename": "Desktop-Industry-Experts-—-Design.mp4",
               "placeholder": { "src": "https://star.global/wp-includes/images/media/video.png", "width": 48, "height": 64 },
-              "withSize": true,
+
               "mediaFocus": { "x": 0.5, "y": 0.5 }
-            },
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            }
           }
         }
       ]
@@ -356,14 +215,8 @@
       "attrs": {
         "instanceId": "68cae2ec-7e6c-4730-83bc-53a2918aada8",
         "theme": "gradient-violet-2",
-        "isStretchHeight": false,
         "className": "is-style-gradient-violet-2",
-        "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
@@ -371,14 +224,10 @@
           "attrs": {
             "instanceId": "8bf55951-df3b-47d6-a6a3-eca35509cfa4",
             "level": 5,
-            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Your one partner in designing products that\u00a0delight end<strong>\u2011</strong>users\u00a0and create value</strong>",
+            "text": "Your one partner in designing products that delight end‑users and create value",
             "align": "center",
             "format": "title-4",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "bold"
           }
         }
       ]
@@ -389,13 +238,7 @@
         "instanceId": "0714d9b3-54a2-46af-b5e9-cdd98ed2ea28",
         "anchor": "what_we_do",
         "theme": "white",
-        "isStretchHeight": false,
-        "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
@@ -403,55 +246,37 @@
           "attrs": {
             "instanceId": "6a8d2089-3fc5-4b71-8476-3669709de52f",
             "level": 3,
-            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Services</strong>",
+            "text": "Services",
             "align": "left",
-            "placeholder": "",
             "format": "title-1",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "bold"
           }
         }
       ]
     },
     {
       "blockName": "section-showcase-slider",
-      "attrs": {
-        "instanceId": "f407d86c-1130-413c-8ffd-2f7e1231e4de",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
-      },
+      "attrs": { "instanceId": "f407d86c-1130-413c-8ffd-2f7e1231e4de" },
       "innerBlocks": [
         {
           "blockName": "showcase-slider",
           "attrs": {
             "instanceId": "547e3130-444e-485c-8813-5dbbc144f1ce",
             "title": "Design Research",
-            "description": "Understand the underlying and sometimes unarticulated desires, needs and challenges of end users to determine human-centered solutions that integrate seamlessly into people's lives or\u00a0workflows.",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "description": "Understand the underlying and sometimes unarticulated desires, needs and challenges of end users to determine human-centered solutions that integrate seamlessly into people's lives or workflows."
           },
           "innerBlocks": [
             {
               "blockName": "case-tile",
               "attrs": {
                 "instanceId": "f2f96704-d95b-462b-a9e4-d14e1db38269",
-                "title": "<strong>\u0421reating a new premium travel\u00a0experience</strong>",
-                "suptitle": "",
-                "description": "",
+                "title": "<strong>Сreating a new premium travel experience</strong>",
                 "layout": "bg-tile",
                 "logo": {
                   "id": 50702,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/09/21133448/Client_s-NameLufthansa.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=Lufthansa",
                   "filename": "Client_s-NameLufthansa.svg",
                   "mediaFocus": { "x": 0, "y": 0 },
@@ -463,24 +288,13 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/09/21144445/Desktop-Services-%E2%88%92-Lufthansa-min-1-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "Desktop-Services-\u2212-Lufthansa-min-1",
-                  "filename": "Desktop-Services-\u2212-Lufthansa-min-1-1.png",
+                  "title": "Desktop-Services-−-Lufthansa-min-1",
+                  "filename": "Desktop-Services-−-Lufthansa-min-1-1.png",
                   "size": { "width": 1610, "height": 1036 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAa0lEQVQImQXBwQqCQBRA0fvkKTrqpvD/lxH0JdEugspwkUILySwMZKZpPEd22014jRPDc8D9PGWeok195/NW9ocjRS6sqgI9X26crl+ECesBdaiJZzIzYq3DE2HiBG3bjv7RIyEw/4UsWrMA12krl0DW7E0AAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIklEQVQImWP4//ldRXGXlZn7/39/GfwczcXFVBgYhDITIgGq2wpSPukZsAAAAABJRU5ErkJggg=="
                 },
-                "link": {
-                  "url": "https://star.global/cases/lufthansa/",
-                  "path": "/cases/lufthansa/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
-                },
-                "button": { "label": "Explore case study", "skin": "greenPurple", "size": "md", "type": "link", "icon": "arrow" },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "link": { "url": "https://star.global/cases/lufthansa/", "path": "/cases/lufthansa/", "target": "_blank" },
+                "button": { "label": "Explore case study", "skin": "greenPurple", "size": "md", "type": "link", "icon": "arrow" }
               }
             }
           ]
@@ -490,37 +304,31 @@
           "attrs": {
             "instanceId": "812610b8-bd37-4e05-9a43-a1fa6a89230e",
             "title": "Design Strategy",
-            "description": "Find the equilibrium between what's valuable and what\u2019s profitable for your business to discover the\u00a0best approach to product development.",
+            "description": "Find the equilibrium between what's valuable and what’s profitable for your business to discover the best approach to product development.",
             "media": {
               "id": 41813,
               "url": "https://cdn.star.global/wp-content/uploads/2021/06/18033407/Episode_card_cover.png",
               "type": "image",
               "mime": "image/png",
-              "alt": "",
               "title": "Episode_card_cover",
               "filename": "Episode_card_cover.png",
               "size": { "width": 736, "height": 526 },
-              "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AW5/wP/t2vIA68DbAA8GJgANBhsAAgkACgAZEBcADw8GABEU+wD5/fAAAg/f9wAwCCMAO0cRACQ64ADz/9wABBZdBwD7AuIAEwIwANik+gAaBwwABCME1gADAQYA29ITAPDbFAACAQQApAYdrG7O+5YAAAAASUVORK5CYII="
-            },
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+              "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMklEQVQImQEnANj/AHCH0iEfjgAAagAAvgBxaK6hlPVrT5MAAJQA2+K69//fSi++AADKJpAQn1Z5gwAAAAAASUVORK5CYII="
+            }
           },
           "innerBlocks": [
             {
               "blockName": "case-tile",
               "attrs": {
                 "instanceId": "fee3cbc0-d113-4064-b83e-3a9ea69196f1",
-                "title": "<strong>Exploring the future of in-car comfort with\u00a0a\u00a0world-leading\u00a0automotive supplier</strong>",
-                "suptitle": "",
+                "title": "<strong>Exploring the future of in-car comfort with a world-leading automotive supplier</strong>",
+
                 "layout": "bg-tile",
                 "logo": {
                   "id": 50681,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/02/21051318/Client_s-NameDenso.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=Denso",
                   "filename": "Client_s-NameDenso.svg",
                   "mediaFocus": { "x": 0, "y": 0 },
@@ -532,26 +340,19 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/15014746/Desktop-Services-%E2%88%92-Denso-min-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Services \u2212 Denso-min",
-                  "filename": "Desktop-Services-\u2212-Denso-min-1.png",
+                  "title": "( Desktop ) Services − Denso-min",
+                  "filename": "Desktop-Services-−-Denso-min-1.png",
                   "contentTheme": "dark",
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 1610, "height": 1036 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/ATA5RP/3/P4ABQIAABcUEgDZ1tIABANLTwAtAf8ABdnQAPLq5QATFBYABPzU1AAMW1wAEQb9ADrr/wD0+PkAAunFvAA2EQsAOExPALrP3ADR190ABPz5+ADBtLQAJy4sAMTP2AD18vIACJ4qwBS7R5kAAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAI0lEQVQImWOIaOxNn7suKyVZTceQgYFR+Mz//8tXzg+w1AIAhAgKTQZPMeIAAAAASUVORK5CYII="
                 },
                 "link": {
                   "url": "https://star.global/cases/future-of-automotive-denso-case/",
                   "path": "/cases/future-of-automotive-denso-case/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
-                "button": { "label": "Explore case study", "skin": "white", "size": "md", "type": "link", "icon": "arrow" },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "button": { "label": "Explore case study", "skin": "white", "size": "md", "type": "link", "icon": "arrow" }
               }
             }
           ]
@@ -561,25 +362,20 @@
           "attrs": {
             "instanceId": "29bf5539-5649-4fdb-bbf0-8f66f9cc810d",
             "title": "Storytelling",
-            "description": "Develop a deeper connection, unite your audience and drive stronger, more enduring relationships.",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "description": "Develop a deeper connection, unite your audience and drive stronger, more enduring relationships."
           },
           "innerBlocks": [
             {
               "blockName": "case-tile",
               "attrs": {
                 "instanceId": "2aa6b383-92c5-42c4-8449-d3db6bfd2f01",
-                "title": "<strong>Partnering with AppyWay\u00a0to make parking forgettable</strong>",
+                "title": "<strong>Partnering with AppyWay to make parking forgettable</strong>",
                 "layout": "bg-tile",
                 "logo": {
                   "id": 50678,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/02/21051251/Client_s-NameAppyway.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=Appyway",
                   "filename": "Client_s-NameAppyway.svg",
                   "mediaFocus": { "x": 0, "y": 0 },
@@ -591,24 +387,13 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/23015351/Desktop-Recent-Cases-%E2%80%94-AppyWay.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "(Desktop) Recent Cases \u2014 AppyWay",
-                  "filename": "Desktop-Recent-Cases-\u2014-AppyWay.png",
+                  "title": "(Desktop) Recent Cases — AppyWay",
+                  "filename": "Desktop-Recent-Cases-—-AppyWay.png",
                   "size": { "width": 1126, "height": 1030 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AZOQoP/UzsYAJy0pADAzMAD+9/QAAuns7AAJDRIALi8vADw9PwAOBQkAAu/w7wAaGx4A+vf7ANLl/gDx7OsABPPz8QDq7AUA9+wLACEO9gAAGBcABP7+/QDx9fQA19PcAL/HmgAL+eEAv+8tVnK8JucAAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMklEQVQImQEnANj/AEE+TxwYIMrLy6ebmwAkJjc+N0P1//+nk5cAAAAVLCEoo6K2eGdyI1YPM49+l6MAAAAASUVORK5CYII="
                 },
-                "link": {
-                  "url": "https://star.global/cases/appyway/",
-                  "path": "/cases/appyway/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
-                },
-                "button": { "label": "Explore case study", "skin": "greenPurple", "size": "md", "type": "link", "icon": "arrow" },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "link": { "url": "https://star.global/cases/appyway/", "path": "/cases/appyway/", "target": "_blank" },
+                "button": { "label": "Explore case study", "skin": "greenPurple", "size": "md", "type": "link", "icon": "arrow" }
               }
             }
           ]
@@ -618,57 +403,45 @@
           "attrs": {
             "instanceId": "88ef9c58-65c9-4025-9030-f628df484b2e",
             "title": "Digital Design",
-            "description": "Identify opportunities, map out the information architecture, define the look and feel of your future products and iterate the best possible solution in close exchange with users and stakeholders.<br><br>",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "description": "Identify opportunities, map out the information architecture, define the look and feel of your future products and iterate the best possible solution in close exchange with users and stakeholders.<br><br>"
           },
           "innerBlocks": [
             {
               "blockName": "case-tile",
               "attrs": {
                 "instanceId": "c2490365-1125-4de3-99ff-28f8eb4c418b",
-                "title": "<strong>Getting back to work safely</strong>\u00a0<strong>with One Concern</strong>",
+                "title": "<strong>Getting back to work safely</strong> <strong>with One Concern</strong>",
                 "layout": "bg-tile",
                 "logo": {
                   "id": 44013,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/27032203/oneceoncern_.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "title": "_oneceoncern_",
                   "filename": "oneceoncern_.png",
                   "mediaFocus": { "x": 0, "y": 0 },
                   "contentTheme": "dark",
                   "size": { "width": 420, "height": 180 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAP0lEQVQImW3MMQ2AQBjF4O8nCCAnAAFIQjQDEpgQwMTAY7nxmnRsGVBJdtxYcVbVMaHh67Yk24yrVw8WvKOlHx//Di8U7eiMAAAAAElFTkSuQmCC"
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAIAAAB2XpiaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAEklEQVQImWPYCQb///9nYGAAADgvB1SMzYbOAAAAAElFTkSuQmCC"
                 },
                 "background": {
                   "id": 42739,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14003639/Desktop-Services-%E2%88%92-One-Concern-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Services \u2212 One Concern-min",
-                  "filename": "Desktop-Services-\u2212-One-Concern-min.png",
+                  "title": "( Desktop ) Services − One Concern-min",
+                  "filename": "Desktop-Services-−-One-Concern-min.png",
                   "contentTheme": "dark",
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 1610, "height": 1036 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAZklEQVQImQXBwQqCUBBA0Tu9oQjBEKJl0qadP+Ontup7RBBpXAVp9pzpHJknj4STJkPMkGqHxstIw4Cc9khphGdUxw6/ZDR39OWd57dAUw0fVx65YdsOtNczEhExLivv9cetOALBHwdlK22cXU1RAAAAAElFTkSuQmCC"
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAIklEQVQImWPICs1QYmBQZGCQkhZnWNY3QVdBVMLW9t3//wBEwAdbtG5qZwAAAABJRU5ErkJggg=="
                 },
                 "link": {
                   "url": "https://star.global/cases/covid-calculator-one-concern/",
                   "path": "/cases/covid-calculator-one-concern/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
-                "button": { "label": "Explore case study", "skin": "white", "size": "md", "type": "link", "icon": "arrow" },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "button": { "label": "Explore case study", "skin": "white", "size": "md", "type": "link", "icon": "arrow" }
               }
             }
           ]
@@ -678,25 +451,20 @@
           "attrs": {
             "instanceId": "5a7b4c68-f31b-494e-a521-316bd58e07e2",
             "title": "Industrial Design",
-            "description": "Ideate and develop creative concepts and specifications of manufactured products for optimal value, function, appearance and usability through user-centric design solutions.<br><br>",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "description": "Ideate and develop creative concepts and specifications of manufactured products for optimal value, function, appearance and usability through user-centric design solutions.<br><br>"
           },
           "innerBlocks": [
             {
               "blockName": "case-tile",
               "attrs": {
                 "instanceId": "09707ac6-0b08-4732-a7fa-7693138bed56",
-                "title": "<strong>Defining luxury TV viewing\u00a0for the\u00a0Chinese market</strong>",
+                "title": "<strong>Defining luxury TV viewing for the Chinese market</strong>",
                 "layout": "bg-tile",
                 "logo": {
                   "id": 50644,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/09/21045757/Client_s-NameHisense.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=Hisense",
                   "filename": "Client_s-NameHisense.svg",
                   "mediaFocus": { "x": 0, "y": 0 },
@@ -708,24 +476,17 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/15015211/Desktop-Services-%E2%88%92-Hisense-min-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Services \u2212 Hisense-min",
-                  "filename": "Desktop-Services-\u2212-Hisense-min-1.png",
+                  "title": "( Desktop ) Services − Hisense-min",
+                  "filename": "Desktop-Services-−-Hisense-min-1.png",
                   "size": { "width": 1610, "height": 1036 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAWElEQVQImQXBQRKCMBBFwfczKYiGYoNXUNBF7n8UuAowGbv1/nxDgnmq4I7MyBGdJFheC/VRmMpITma4O/t+ENFpraF1+4WUMDO8O/d1kpGQhJIYh8KzVv4hVhfUSlREXQAAAABJRU5ErkJggg=="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAIklEQVQImWNgYGARk5Bsbmz4/+8PAx+/IB+/sJyCYllZOQBWOgbpMlGNUQAAAABJRU5ErkJggg=="
                 },
                 "link": {
                   "url": "https://star.global/cases/defining-luxury-tv-viewing-for-the-chinese-market/",
                   "path": "/cases/defining-luxury-tv-viewing-for-the-chinese-market/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
-                "button": { "label": "Explore case study", "skin": "greenPurple", "size": "md", "type": "link", "icon": "arrow" },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "button": { "label": "Explore case study", "skin": "greenPurple", "size": "md", "type": "link", "icon": "arrow" }
               }
             }
           ]
@@ -735,11 +496,7 @@
           "attrs": {
             "instanceId": "2d2e664b-00df-4731-b304-4f124a0cc09f",
             "title": "Service Design",
-            "description": "Explore, plan and orchestrate all touchpoints between a brand and its customers. Focus on user needs, ensure consistency and create environmentally-conscious innovation.<br><br>",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "description": "Explore, plan and orchestrate all touchpoints between a brand and its customers. Focus on user needs, ensure consistency and create environmentally-conscious innovation.<br><br>"
           },
           "innerBlocks": [
             {
@@ -753,7 +510,6 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/09/21045625/Client_s-NameSaic.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=Saic",
                   "filename": "Client_s-NameSaic.svg",
                   "mediaFocus": { "x": 0, "y": 0 },
@@ -765,26 +521,19 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/09/21144845/Desktop-Services-%E2%88%92-Saic-min-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "Desktop-Services-\u2212-Saic-min-1",
-                  "filename": "Desktop-Services-\u2212-Saic-min-1.png",
+                  "title": "Desktop-Services-−-Saic-min-1",
+                  "filename": "Desktop-Services-−-Saic-min-1.png",
                   "contentTheme": "dark",
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 1610, "height": 1036 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAWklEQVQImQXBQQ4BQRRF0fs6v/T7bYYiFoFg/1syQ9KlUs7Rbl9HRFAiuN8uPB9XlM5hm0OtpM35dCTaujL6j5fEYtNbQ8AAKGVD5kLvnWmSkIQ9s82Z7+fNHwvMFWu2dm3VAAAAAElFTkSuQmCC"
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIklEQVQImWMQ4BfQ09W7e+fO////GRgYGHh5eJSVlCMjIwFwVAfj8n5INgAAAABJRU5ErkJggg=="
                 },
                 "link": {
                   "url": "https://star.global/cases/hmi-design-for-mg-cars/",
                   "path": "/cases/hmi-design-for-mg-cars/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
-                "button": { "label": "Explore case study", "skin": "purpleGreen", "size": "md", "type": "solid", "icon": "arrow" },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "button": { "label": "Explore case study", "skin": "purpleGreen", "size": "md", "type": "solid", "icon": "arrow" }
               }
             }
           ]
@@ -797,50 +546,27 @@
         "instanceId": "8c2f46ff-9c7e-412c-b845-496e6f310118",
         "anchor": "methods",
         "theme": "greyLight",
-        "isStretchHeight": false,
         "className": "is-style-greyLight",
-        "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
           "blockName": "columns",
-          "attrs": {
-            "instanceId": "0240aa50-8f37-4952-b188-5e3a6c30bf24",
-            "count": 2,
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          },
+          "attrs": { "instanceId": "0240aa50-8f37-4952-b188-5e3a6c30bf24", "count": 2 },
           "innerBlocks": [
             {
               "blockName": "column",
-              "attrs": {
-                "instanceId": "729a6eeb-f33e-4268-ac8a-ce9d4c01b818",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
+              "attrs": { "instanceId": "729a6eeb-f33e-4268-ac8a-ce9d4c01b818" },
               "innerBlocks": [
                 {
                   "blockName": "heading",
                   "attrs": {
                     "instanceId": "86f29b0f-44b0-4b84-b335-bb054620d8e4",
                     "level": 2,
-                    "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Methods</strong>",
+                    "text": "Methods",
                     "align": "left",
                     "format": "title-1",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "bold"
                   }
                 },
                 {
@@ -851,10 +577,7 @@
                     "text": "Learn more about how Star can help you bring game-changing ideas to market",
                     "theme": "green",
                     "isShowStarLogo": true,
-                    "isMobileHidden": true,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "isMobileHidden": true
                   },
                   "innerBlocks": [
                     {
@@ -865,21 +588,13 @@
                         "link": {
                           "title": "#contact",
                           "type": "internal",
-                          "path": "#contact",
-                          "target": "_self",
-                          "rel": "",
                           "id": "#contact",
                           "url": "#contact"
                         },
                         "skin": "greenPurple",
                         "size": "md",
-                        "mobileSize": "auto",
                         "type": "solid",
-                        "icon": "arrow",
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                        "icon": "arrow"
                       }
                     }
                   ]
@@ -888,23 +603,11 @@
             },
             {
               "blockName": "column",
-              "attrs": {
-                "instanceId": "bd2d018a-35c8-4399-b634-4969bcd5dc61",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
+              "attrs": { "instanceId": "bd2d018a-35c8-4399-b634-4969bcd5dc61" },
               "innerBlocks": [
                 {
                   "blockName": "tags",
-                  "attrs": {
-                    "instanceId": "f1d0d15f-ef08-4425-97da-5318d666ed55",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  },
+                  "attrs": { "instanceId": "f1d0d15f-ef08-4425-97da-5318d666ed55" },
                   "innerBlocks": [
                     {
                       "blockName": "tag",
@@ -912,17 +615,9 @@
                         "instanceId": "4c49b8d9-92be-4098-b45b-5f0a14acd239",
                         "tag": "Quantitative &amp; Qualitative Research",
                         "link": {
-                          "title": "?method=Quantitative%20and%20Qualitative%20Research#conta\u0441t",
-                          "type": "URL",
-                          "path": "?method=Quantitative%20and%20Qualitative%20 Research#contact",
-                          "target": "_self",
-                          "rel": "",
+                          "title": "?method=Quantitative%20and%20Qualitative%20Research#contaсt",
                           "url": "?method=Quantitative%20and%20Qualitative%20 Research#contact"
-                        },
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                        }
                       }
                     },
                     {
@@ -931,15 +626,8 @@
                         "instanceId": "aacfc680-6cdf-4b3d-86dd-ce7afa349f99",
                         "tag": "Co-creation ",
                         "link": {
-                          "url": "?method=Co-creation#contact",
-                          "path": "?method=Co-creation#contact",
-                          "target": "_self",
-                          "rel": ""
-                        },
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                          "url": "?method=Co-creation#contact"
+                        }
                       }
                     },
                     {
@@ -948,17 +636,9 @@
                         "instanceId": "097c1d19-71bc-4882-9cbc-7d791e69d494",
                         "tag": "Use Case Definition",
                         "link": {
-                          "path": "?method=Use%20Case%20Definition#contact",
-                          "target": "_self",
-                          "rel": "",
                           "title": "?method=Use%20Case%20Definition#contact",
-                          "type": "URL",
                           "url": "?method=Use%20Case%20Definition#contact"
-                        },
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                        }
                       }
                     },
                     {
@@ -968,17 +648,9 @@
                         "tag": "Ideation",
                         "link": {
                           "title": "?method=Ideation#contact",
-                          "type": "URL",
-                          "path": "?method=Ideation#contact",
-                          "target": "_self",
-                          "rel": "",
                           "id": "?method=Ideation#contact",
                           "url": "?method=Ideation#contact"
-                        },
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                        }
                       }
                     },
                     {
@@ -987,18 +659,10 @@
                         "instanceId": "74db86c3-03d0-411d-87fe-9a1c5fe216f8",
                         "tag": "Concept Exploration",
                         "link": {
-                          "path": "?method=Concept%20Exploration#contact",
-                          "target": "_self",
-                          "rel": "",
                           "title": "?method=Concept%20Exploration#contact",
-                          "type": "URL",
                           "id": "?method=Concept%20Exploration#contact",
                           "url": "?method=Concept%20Exploration#contact"
-                        },
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                        }
                       }
                     },
                     {
@@ -1008,17 +672,9 @@
                         "tag": "Prototyping",
                         "link": {
                           "title": "?method=Prototyping#contact",
-                          "type": "URL",
-                          "path": "?method=Prototyping#contact",
-                          "target": "_self",
-                          "rel": "",
                           "id": "?method=Prototyping#contact",
                           "url": "?method=Prototyping#contact"
-                        },
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                        }
                       }
                     },
                     {
@@ -1027,18 +683,11 @@
                         "instanceId": "d8becfc2-23d2-4c48-a48a-db101b4fac06",
                         "tag": "Design Sprints",
                         "link": {
-                          "path": "?method=Design%20Sprints#contact",
-                          "target": "_self",
-                          "rel": "",
                           "id": "?method=Design%20Sprints#contact",
                           "title": "?method=Design%20Sprints#contact",
                           "url": "?method=Design%20Sprints#contact",
                           "type": "URL"
-                        },
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                        }
                       }
                     },
                     {
@@ -1047,18 +696,11 @@
                         "instanceId": "9399cadf-bed5-4ae3-a74a-553849ad8b27",
                         "tag": "Journey Mapping",
                         "link": {
-                          "path": "?method=Journey%20Mapping#contact",
-                          "target": "_self",
-                          "rel": "",
                           "id": "?method=Journey%20Mapping#contact",
                           "title": "?method=Journey%20Mapping#contact",
                           "url": "?method=Journey%20Mapping#contact",
                           "type": "URL"
-                        },
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                        }
                       }
                     },
                     {
@@ -1068,17 +710,9 @@
                         "tag": "Design System",
                         "link": {
                           "title": "?method=Design%20System#contact",
-                          "type": "URL",
-                          "path": "?method=Design%20System#contact",
-                          "target": "_self",
-                          "rel": "",
                           "id": "?method=Design%20System#contact",
                           "url": "?method=Design%20System#contact"
-                        },
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                        }
                       }
                     },
                     {
@@ -1088,17 +722,9 @@
                         "tag": "User Testing",
                         "link": {
                           "title": "?method=User%20Testing#contact",
-                          "type": "URL",
-                          "path": "?method=User%20Testing#contact",
-                          "target": "_self",
-                          "rel": "",
                           "id": "?method=User%20Testing#contact",
                           "url": "?method=User%20Testing#contact"
-                        },
-                        "isMobileHidden": false,
-                        "isDesktopHidden": false,
-                        "isZeroMarginTop": false,
-                        "isZeroMarginBottom": false
+                        }
                       }
                     }
                   ]
@@ -1111,32 +737,17 @@
     },
     {
       "blockName": "section-default",
-      "attrs": {
-        "instanceId": "0f21004b-521b-4c22-84ae-29807da9c308",
-        "anchor": "why_us",
-        "theme": "white",
-        "isStretchHeight": false,
-        "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
-      },
+      "attrs": { "instanceId": "0f21004b-521b-4c22-84ae-29807da9c308", "anchor": "why_us", "theme": "white", "contentAlignment": "left" },
       "innerBlocks": [
         {
           "blockName": "heading",
           "attrs": {
             "instanceId": "f9464581-594e-4448-9588-010a9ee4b70b",
             "level": 2,
-            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Why we are different</strong>",
+            "text": "Why we are different",
             "align": "left",
             "format": "title-1",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "bold"
           }
         },
         {
@@ -1144,49 +755,33 @@
           "attrs": {
             "className": "text-md",
             "instanceId": "1c0dbf0e-bb4a-41ec-9b14-319c39fc490d",
-            "text": "<span data-font-face=\"light\" class=\"swc-light\">At Star, we\u2019re all about co-creation. From ideation through<br>launch, we work with our customers every step of the way.</span>",
+            "text": "At Star, we’re all about co-creation. From ideation through<br>launch, we work with our customers every step of the way.",
             "format": "body-1",
-            "bgColor": "transparent",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "light"
           }
         },
         {
           "blockName": "showcases",
-          "attrs": {
-            "instanceId": "fffd15e4-52b0-49b7-94c1-55d7dca9784b",
-            "tagTitle": "Our benefits",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          },
+          "attrs": { "instanceId": "fffd15e4-52b0-49b7-94c1-55d7dca9784b", "tagTitle": "Our benefits" },
           "innerBlocks": [
             {
               "blockName": "showcase-block",
               "attrs": {
                 "instanceId": "98b57b7b-12d9-46f0-83bf-bc78f08c42b2",
                 "title": "Empathy, curiosity &amp; human-centered approach",
-                "description": "We apply a human-centered approach to innovation and\u00a0develop products that generate a positive impact.<br><br>",
-                "tags": "Deliver tangible results through <strong>cross-cultural methodologies and a holistic design thinking approach</strong><br><br>Harness the latest technologies and <strong>create seamless experiences</strong> that are a joy to use<br><br><strong>Continuously build, test and learn</strong> to\u00a0constantly iterate and refine concepts and ideas<br><br>Enter the unknown with an open visor and work proactively <strong>from strategic product definition to\u00a0market readiness</strong><br><br><strong>Co-create with clients and partners</strong> and involve them throughout the development process",
+                "description": "We apply a human-centered approach to innovation and develop products that generate a positive impact.<br><br>",
+                "tags": "Deliver tangible results through <strong>cross-cultural methodologies and a holistic design thinking approach</strong><br><br>Harness the latest technologies and <strong>create seamless experiences</strong> that are a joy to use<br><br><strong>Continuously build, test and learn</strong> to constantly iterate and refine concepts and ideas<br><br>Enter the unknown with an open visor and work proactively <strong>from strategic product definition to market readiness</strong><br><br><strong>Co-create with clients and partners</strong> and involve them throughout the development process",
                 "theme": "purple",
                 "media": {
                   "id": 48289,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/08/10062626/Desktop-Why-we-are-different-%E2%80%94-Design-2.mp4",
                   "type": "video",
                   "mime": "video/mp4",
-                  "alt": "",
-                  "title": "(Desktop) Why we are different \u2014 Design",
-                  "filename": "Desktop-Why-we-are-different-\u2014-Design-2.mp4"
+
+                  "title": "(Desktop) Why we are different — Design",
+                  "filename": "Desktop-Why-we-are-different-—-Design-2.mp4"
                 },
-                "isList": true,
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "isList": true
               }
             }
           ]
@@ -1199,88 +794,46 @@
         "instanceId": "b2afc72f-126f-4144-bc8c-d08e8dbb99a9",
         "anchor": "culture",
         "theme": "greyLight",
-        "isStretchHeight": false,
         "className": "is-style-greyLight",
-        "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
           "blockName": "content-sidebar",
-          "attrs": {
-            "instanceId": "1ee1d0ab-9547-44f3-a2f4-b6257a739550",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          },
+          "attrs": { "instanceId": "1ee1d0ab-9547-44f3-a2f4-b6257a739550" },
           "innerBlocks": [
             {
               "blockName": "content-sidebar-item",
-              "attrs": {
-                "instanceId": "c61b27eb-ac1c-4469-926f-7479b3b758dc",
-                "theme": "greyLight",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
+              "attrs": { "instanceId": "c61b27eb-ac1c-4469-926f-7479b3b758dc", "theme": "greyLight" },
               "innerBlocks": [
                 {
                   "blockName": "heading",
                   "attrs": {
                     "instanceId": "577d7885-a90f-4f8b-b66c-5f16fdcfe02a",
                     "level": 3,
-                    "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">We\u2019re Star</strong>",
+                    "text": "We’re Star",
                     "align": "left",
-                    "placeholder": "",
                     "format": "title-1",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "bold"
                   }
                 }
               ]
             },
             {
               "blockName": "media-sidebar-item",
-              "attrs": {
-                "instanceId": "7f5615ef-1d23-49dc-b125-c691d71b2ee7",
-                "theme": "white",
-                "className": "is-style-white",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
+              "attrs": { "instanceId": "7f5615ef-1d23-49dc-b125-c691d71b2ee7", "theme": "white", "className": "is-style-white" },
               "innerBlocks": [
                 {
                   "blockName": "button",
                   "attrs": {
                     "instanceId": "0b8e6fb0-0bc2-4ebe-aa13-4fcdd3df85a9",
                     "label": "Explore 100+ careers now",
-                    "link": {
-                      "url": "https://star.global/careers/",
-                      "path": "/careers/",
-                      "target": "_blank",
-                      "rel": "",
-                      "opensInNewTab": true
-                    },
+                    "link": { "url": "https://star.global/careers/", "path": "/careers/", "target": "_blank" },
                     "skin": "blackGreen",
                     "size": "md",
                     "mobileSize": "full-width",
                     "type": "solid",
-                    "icon": "arrow",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "icon": "arrow"
                   }
                 }
               ]
@@ -1289,14 +842,7 @@
         },
         {
           "blockName": "info-tiles",
-          "attrs": {
-            "instanceId": "91898a9e-c18b-41e7-985f-6ee10837c69d",
-            "largeTileAlignmentsOrder": "leftRight",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          },
+          "attrs": { "instanceId": "91898a9e-c18b-41e7-985f-6ee10837c69d", "largeTileAlignmentsOrder": "leftRight" },
           "innerBlocks": [
             {
               "blockName": "info-tile",
@@ -1312,16 +858,12 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14004034/Desktop-We-are-Star-%E2%88%92-We-liberate-better-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) We are Star \u2212 We liberate better-min",
-                  "filename": "Desktop-We-are-Star-\u2212-We-liberate-better-min.png",
+
+                  "title": "( Desktop ) We are Star − We liberate better-min",
+                  "filename": "Desktop-We-are-Star-−-We-liberate-better-min.png",
                   "size": { "width": 1126, "height": 1264 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AaiMgf/28u0AGBEGANfY5QDWwcAABOTd2ABAFOoAIBMWAPwA3QDyFgcABBLu0wDrBA0A9dvzAPn/BQAVCwQABAoMCQD7AgUA3+XwAP739wDz+f0AAhshGQDu8/oA5unuAOzy9QD6/v8AMnUuz2NwseIAAAAASUVORK5CYII="
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAP0lEQVQImQE0AMv/APbX0v/23fDBqTQAAACRVjn/0X//u3FyJwAAx28z6JNWzn9PjDcKAP/Nia5nN3g0CWgiAOPpGLbnsN3SAAAAAElFTkSuQmCC"
+                }
               }
             },
             {
@@ -1333,11 +875,7 @@
                 "description": "Star Strategy, Star Design, Star Engineering",
                 "size": "small",
                 "theme": "purple",
-                "align": "center",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "align": "center"
               }
             },
             {
@@ -1355,16 +893,12 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14003905/Desktop-We-are-Star-%E2%88%92-Be-Bold-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) We are Star \u2212 Be Bold-min",
-                  "filename": "Desktop-We-are-Star-\u2212-Be-Bold-min.png",
+
+                  "title": "( Desktop ) We are Star − Be Bold-min",
+                  "filename": "Desktop-We-are-Star-−-Be-Bold-min.png",
                   "size": { "width": 544, "height": 834 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAbUlEQVQImQXBOxIBQRRA0ftefzDTuqtMaakimS1QViCQqLIe25SwBIlgfJ9zZNOvrJvNORxPfD9val3gcqnn+2MgxIjDGDcTvIjStok8TVyuN35myH63teH5YhQD4gOqHulyMadCSQ0q0K+X/AF5Lhcmx9b45gAAAABJRU5ErkJggg=="
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAECAIAAAArjXluAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAJUlEQVQImWM4Mn/S/9+/GUK9/e+cPsvg7+hSlZnOwMLAwM/BDgDGTQqOPJBPFwAAAABJRU5ErkJggg=="
+                }
               }
             },
             {
@@ -1382,16 +916,12 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14004002/Desktop-We-are-Star-%E2%88%92-Be-Useful-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) We are Star \u2212 Be Useful-min",
-                  "filename": "Desktop-We-are-Star-\u2212-Be-Useful-min.png",
+
+                  "title": "( Desktop ) We are Star − Be Useful-min",
+                  "filename": "Desktop-We-are-Star-−-Be-Useful-min.png",
                   "size": { "width": 542, "height": 834 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAcklEQVQImQXBMQ6CMABA0V8sMrgViaa0DA7uJibewAN4B0+qrp7CgYAVjEo0Ja3vCTXPoxBwPOy5nM4UxiCLXJFOM75BoJcL2s8P6UePsRXde+B6e9C/BhJbarSa4bondePwYSTZbTesV5b27ogxkE4kf+laJbV2646cAAAAAElFTkSuQmCC"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAECAIAAAArjXluAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAJ0lEQVQImQEcAOP/AMnAtbeqmwB3dnLFsqAA//70RUZDALWuoQABANikDXXZOUohAAAAAElFTkSuQmCC"
+                }
               }
             },
             {
@@ -1403,11 +933,7 @@
                 "description": "HealthTech, Automotive &amp; Mobility and more",
                 "size": "small",
                 "theme": "purple",
-                "align": "center",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "align": "center"
               }
             },
             {
@@ -1419,11 +945,7 @@
                 "description": "America, Europe, Asia",
                 "size": "small",
                 "theme": "purple",
-                "align": "center",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "align": "center"
               }
             },
             {
@@ -1441,16 +963,12 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14004012/Desktop-We-are-Star-%E2%88%92-Be-Yourself-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) We are Star \u2212 Be Yourself-min",
-                  "filename": "Desktop-We-are-Star-\u2212-Be-Yourself-min.png",
+
+                  "title": "( Desktop ) We are Star − Be Yourself-min",
+                  "filename": "Desktop-We-are-Star-−-Be-Yourself-min.png",
                   "size": { "width": 544, "height": 834 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AW6Iov/18/IAHiAjAN7Y0QA6QUcAAv/9/gAUFhkA////AOzt7AD19PYABO7p5gD49AoABgYIAPj08wC3rqQAAv77+wD69/gA+/j5AA8HBwD57+sABPT09QAD9vIACw4WAO/r5QAE9OYAy1k0AzqBcEsAAAAASUVORK5CYII="
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAECAIAAAArjXluAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAJUlEQVQImWPI6Vz+8P9/htk7buV0LGFwj6/hkdFn4FMyZGCUBQDANAo5x3hDUgAAAABJRU5ErkJggg=="
+                }
               }
             },
             {
@@ -1459,7 +977,7 @@
                 "instanceId": "ec91a936-ae40-418c-8316-78658bc94c04",
                 "suptitle": "<strong>OUR FOUNDER</strong>",
                 "title": "<strong>Juha Christensen</strong>",
-                "description": "\u201cWe believe every great person, idea and company deserves to shine. That's why we're called Star.\u201d",
+                "description": "“We believe every great person, idea and company deserves to shine. That's why we're called Star.”",
                 "size": "large",
                 "theme": "bg-custom",
                 "className": "is-style-bg-custom",
@@ -1468,16 +986,12 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14004024/Desktop-We-are-Star-%E2%88%92-Juha-Christensen-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) We are Star \u2212 Juha Christensen-min",
-                  "filename": "Desktop-We-are-Star-\u2212-Juha-Christensen-min.png",
+
+                  "title": "( Desktop ) We are Star − Juha Christensen-min",
+                  "filename": "Desktop-We-are-Star-−-Juha-Christensen-min.png",
                   "size": { "width": 1126, "height": 1264 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/ASUwKf83NTkANRQVABgvMQD+BggABEJCQQDMzM0AA/EcACMCAwDwAQAAAt7n6AAJAgcA7vr9AMrV1gAfICMAAh4QFQD18PEAFRIRACAcHADa0tIAAkU+QgARFhYA6OzsABAODwAMCAgAz9wcEL0avfUAAAAASUVORK5CYII="
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAP0lEQVQImQE0AMv/AAAGAG1tafXl5ff//wBOZVoNEAtkXV2dq6oAUF1XFxcXUlVViIyPAPj2+A4TEV1eXpaUlSbKFRtoQniKAAAAAElFTkSuQmCC"
+                }
               }
             },
             {
@@ -1495,19 +1009,14 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2022/08/12005818/Desktop-We-are-Star-%E2%88%92-Be-Optimistic-min-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "Desktop-We-are-Star-\u2212-Be-Optimistic-min-1",
-                  "filename": "Desktop-We-are-Star-\u2212-Be-Optimistic-min-1.png",
-                  "placeholder": [],
-                  "withSize": true,
+
+                  "title": "Desktop-We-are-Star-−-Be-Optimistic-min-1",
+                  "filename": "Desktop-We-are-Star-−-Be-Optimistic-min-1.png",
+
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 544, "height": 834 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AcXR0//YqpIA1/ICADtRXAAMDg8AAvrr4gDk+gQAHAn6ANnNxwALBQAABAcJCQDo5eMAAQ4IAP0D6ADe19IAAyAbFYD3/P0AHBgUAPj5/ADW2+AABNja2wD8/wEAHxEMAPv08ADk4/IAtLYr3q5KPrAAAAAASUVORK5CYII="
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAECAIAAAArjXluAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAJElEQVQImWPYtmPHu///GYoSfBuqChms9RUdjFQZ2BgYkvzsALV2CbPdLY3ZAAAAAElFTkSuQmCC"
+                }
               }
             },
             {
@@ -1524,14 +1033,10 @@
                   "size": "sm",
                   "label": "Explore opportunities",
                   "icon": "arrow",
-                  "link": { "url": "https://star.global/careers/", "path": "/careers/", "target": "_self", "rel": "" }
+                  "link": { "url": "https://star.global/careers/", "path": "/careers/" }
                 },
                 "theme": "green",
-                "className": "is-style-green",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-green"
               }
             },
             {
@@ -1549,19 +1054,14 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2022/08/12005536/Desktop-We-are-Star-%E2%88%92-Were-Truly-Global-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "Desktop-We-are-Star-\u2212-Were-Truly-Global-min",
-                  "filename": "Desktop-We-are-Star-\u2212-Were-Truly-Global-min.png",
-                  "placeholder": [],
-                  "withSize": true,
+
+                  "title": "Desktop-We-are-Star-−-Were-Truly-Global-min",
+                  "filename": "Desktop-We-are-Star-−-Were-Truly-Global-min.png",
+
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 1126, "height": 1264 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAbklEQVQImQXBQQuCMBiA4XduoAWRINT/v3TtFoj9geo6wcMwugpFNpOV+a3nUdV+F5va8pPIZxKO5QGjiSTypbGWZI44d8U87h3e9yiZeYXAJIJ5D54xBIrNFvXsWS5SzPlyQmuNa29kaUa+XvEHHAYyfQWrxaoAAAAASUVORK5CYII="
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAP0lEQVQImQE0AMv/AP/57M+8sdDAu1FBNAD/++66oY5+ZVMXAAAA6NTCqZJ+iHZjHQ4AAI57ZnNgTmNRQTcmHO7bGBFvdfVIAAAAAElFTkSuQmCC"
+                }
               }
             },
             {
@@ -1573,11 +1073,7 @@
                 "description": "Research, Digital, Industrial and more",
                 "size": "small",
                 "theme": "purple",
-                "align": "center",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "align": "center"
               }
             },
             {
@@ -1595,19 +1091,14 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2022/08/12005059/Desktop-We-are-Star-%E2%88%92-Be-Clear-min-1-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "Desktop-We-are-Star-\u2212-Be-Clear-min-1 (1)",
-                  "filename": "Desktop-We-are-Star-\u2212-Be-Clear-min-1-1.png",
-                  "placeholder": [],
-                  "withSize": true,
+
+                  "title": "Desktop-We-are-Star-−-Be-Clear-min-1 (1)",
+                  "filename": "Desktop-We-are-Star-−-Be-Clear-min-1-1.png",
+
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 544, "height": 834 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAVElEQVQImQXBsQ2AMAwAwXdiiETH/oMgMQUFa9BQJbGNuZP7PFIEmhr7GFyPotY7iwoB1DJYPdE5JxmFguDVWA3UzckAAvoWtEjU3fkEMuCtIF/wA2yFKctnpBinAAAAAElFTkSuQmCC"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAECAIAAAArjXluAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAJUlEQVQImWP4//Pz38sXGN6eOvj/9kmG2tjws7M7GKQZGLzVlQEENw54KisfLQAAAABJRU5ErkJggg=="
+                }
               }
             },
             {
@@ -1625,19 +1116,14 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2022/08/12005018/Desktop-We-are-Star-%E2%88%92-Be-Kind-min-1-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "Desktop-We-are-Star-\u2212-Be-Kind-min-1 (1)",
-                  "filename": "Desktop-We-are-Star-\u2212-Be-Kind-min-1-1.png",
-                  "placeholder": [],
-                  "withSize": true,
+
+                  "title": "Desktop-We-are-Star-−-Be-Kind-min-1 (1)",
+                  "filename": "Desktop-We-are-Star-−-Be-Kind-min-1-1.png",
+
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 544, "height": 834 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AcbEuP/LrKYADxYbAPvv6AD++vsAAxQUBoBCLCsA9wAFACQ3PgDc2tkAAwL4AYAKCgkAs7rGAPn7/QDCyM4AATouLP8gGxoA5+fpAOnt7AALEREAAb2ejP/8/PwAfJCeAAACAQAeHiAA8LUpXSCDVukAAAAASUVORK5CYII="
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAECAIAAAArjXluAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAJUlEQVQImWP4/+dDV2YYw4quiiPLZzHEuNgIMTAwzO9uqMtLAQDAYwvMcWKamwAAAABJRU5ErkJggg=="
+                }
               }
             },
             {
@@ -1649,11 +1135,7 @@
                 "description": "Web &amp; Mobile, Embedded &amp; Hardware and more",
                 "size": "small",
                 "theme": "purple",
-                "align": "center",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "align": "center"
               }
             }
           ]
@@ -1662,54 +1144,26 @@
     },
     {
       "blockName": "section-default",
-      "attrs": {
-        "instanceId": "a2cea887-7648-490a-890a-43604ddaf6b7",
-        "anchor": "join_us",
-        "theme": "white",
-        "isStretchHeight": false,
-        "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
-      },
+      "attrs": { "instanceId": "a2cea887-7648-490a-890a-43604ddaf6b7", "anchor": "join_us", "theme": "white", "contentAlignment": "left" },
       "innerBlocks": [
         {
           "blockName": "content-sidebar",
-          "attrs": {
-            "instanceId": "7a3b12a6-eb7d-457b-83c0-363ce851dcc0",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          },
+          "attrs": { "instanceId": "7a3b12a6-eb7d-457b-83c0-363ce851dcc0" },
           "innerBlocks": [
             {
               "blockName": "content-sidebar-item",
-              "attrs": {
-                "instanceId": "d52c02d8-dd75-4029-a002-36d7b545b344",
-                "theme": "greyLight",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
+              "attrs": { "instanceId": "d52c02d8-dd75-4029-a002-36d7b545b344", "theme": "greyLight" },
               "innerBlocks": [
                 {
                   "blockName": "heading",
                   "attrs": {
                     "instanceId": "1dbb57d1-0317-4e10-8e6e-e62e6d180699",
                     "level": 3,
-                    "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Work at Star</strong>",
+                    "text": "Work at Star",
                     "align": "left",
                     "placeholder": "",
                     "format": "title-1",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "bold"
                   }
                 },
                 {
@@ -1718,44 +1172,26 @@
                     "className": "text-md",
                     "instanceId": "6866c994-1810-4c70-b57e-61afa5877893",
                     "text": "<span data-font-face=\"light\" class=\"swc-light\">We promise you the adventure of a lifetime!</span>",
-                    "format": "body-1",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "format": "body-1"
                   }
                 }
               ]
             },
             {
               "blockName": "media-sidebar-item",
-              "attrs": {
-                "instanceId": "7e2cf9c5-2a76-47be-950b-d318515bee42",
-                "theme": "white",
-                "className": "is-style-white",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
+              "attrs": { "instanceId": "7e2cf9c5-2a76-47be-950b-d318515bee42", "theme": "white", "className": "is-style-white" },
               "innerBlocks": [
                 {
                   "blockName": "button",
                   "attrs": {
                     "instanceId": "963e08d4-0d4c-4afa-b6c1-93ead077f2b9",
                     "label": "Explore 100+ careers now",
-                    "link": { "url": "https://star.global/careers/", "path": "/careers/", "target": "_self", "rel": "" },
+                    "link": { "url": "https://star.global/careers/", "path": "/careers/" },
                     "skin": "blackGreen",
                     "size": "md",
                     "mobileSize": "full-width",
                     "type": "solid",
-                    "icon": "arrow",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "icon": "arrow"
                   }
                 }
               ]
@@ -1764,16 +1200,7 @@
         },
         {
           "blockName": "quote-cards",
-          "attrs": {
-            "instanceId": "fd80b368-82e8-4059-8406-f7ed780a7a1c",
-            "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-            "videoCTAlabel": "Watch video now",
-            "format": "photos",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          },
+          "attrs": { "instanceId": "fd80b368-82e8-4059-8406-f7ed780a7a1c", "videoCTAlabel": "Watch video now", "format": "photos" },
           "innerBlocks": [
             {
               "blockName": "quote-card",
@@ -1781,25 +1208,21 @@
                 "instanceId": "717fafa8-2471-4cf6-b4de-869a56f8a782",
                 "author": {
                   "ID": 14757,
-                  "name": "Cl\u00e9mentine Alexandre",
+                  "name": "Clémentine Alexandre",
                   "photo": {
                     "id": 42950,
                     "url": "https://cdn.star.global/wp-content/uploads/2021/07/15010706/Desktop-Benefits-%E2%88%92-Marina-min-1.png",
                     "type": "image",
                     "mime": "image/png",
-                    "alt": "",
-                    "title": "( Desktop ) Benefits \u2212 Marina-min",
-                    "filename": "Desktop-Benefits-\u2212-Marina-min-1.png",
+
+                    "title": "( Desktop ) Benefits − Marina-min",
+                    "filename": "Desktop-Benefits-−-Marina-min-1.png",
                     "size": { "width": 312, "height": 312 },
                     "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AURBNiIQDAijDwkINtjc4soKDwtdAgcGBKMeGhk6NCQiBAYA/zoyMTGjAv3//DYDAP4A6+HjABUQDADg39s2AwX/A0je4egdWVRMAPwDAgDK0NjIAvTz910gHh3GABEV/O70+cbg3+pd9GApZADOsTcAAAAASUVORK5CYII="
                   },
                   "position": "Principal Product Designer "
                 },
-                "quote": "\u201cEmpathy is the key to the product creation and the result is based on\u00a0how far you can go with it.\u201d",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "quote": "“Empathy is the key to the product creation and the result is based on how far you can go with it.”"
               }
             },
             {
@@ -1814,20 +1237,16 @@
                     "url": "https://cdn.star.global/wp-content/uploads/2021/07/15010633/Desktop-Benefits-%E2%88%92-Olia-min-1.png",
                     "type": "image",
                     "mime": "image/png",
-                    "alt": "",
-                    "title": "( Desktop ) Benefits \u2212 Olia-min",
-                    "filename": "Desktop-Benefits-\u2212-Olia-min-1.png",
+
+                    "title": "( Desktop ) Benefits − Olia-min",
+                    "filename": "Desktop-Benefits-−-Olia-min-1.png",
                     "mediaFocus": { "x": 0.5, "y": 0.5 },
                     "size": { "width": 312, "height": 312 },
                     "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AXdmSCLv7vOjJyQkNufu7srw9fddAgQFAqPV2eU6GhYXBBIPEDoBAgGjAgEBAjbs8PUA5OLjANzf5QABAgQ2As7O3coDAQEA/gD+AM/S2gDu7vTKAtjf6l0GBwbGLDE2/PX2+cbX1d1dcLkw59xy860AAAAASUVORK5CYII="
                   },
                   "position": "Head of Product Management"
                 },
-                "quote": "<strong>\u201cI think it\u2019s a misconception that\u00a0change is always a\u00a0revolution. There\u2019re so many ways to\u00a0build on what you already have.\u201d<br></strong>",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "quote": "<strong>“I think it’s a misconception that change is always a revolution. There’re so many ways to build on what you already have.”<br></strong>"
               }
             },
             {
@@ -1845,17 +1264,13 @@
                     "alt": "Oleg Lebedyn",
                     "title": "Lebedyn (1)",
                     "filename": "Lebedyn-1.jpg",
-                    "withSize": true,
+
                     "size": { "width": 220, "height": 220 },
                     "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgABQAFAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A8i1jx9nXb6e20xILeQqI7fziwjwOecDOT7enpRRRUFWP/9k="
                   },
                   "position": "Head of Solutions Architecture"
                 },
-                "quote": "\u201cEndgame is understanding why you want to build products, for whom and what problems are going to be solved. It\u2019s about acting and thinking through the customer's pains and gains.\u201d",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "quote": "“Endgame is understanding why you want to build products, for whom and what problems are going to be solved. It’s about acting and thinking through the customer's pains and gains.”"
               }
             },
             {
@@ -1868,20 +1283,16 @@
                     "url": "https://cdn.star.global/wp-content/uploads/2021/07/15010651/Desktop-Benefits-%E2%88%92-Loreena-min-1.png",
                     "type": "image",
                     "mime": "image/png",
-                    "alt": "",
-                    "title": "( Desktop ) Benefits \u2212 Loreena-min",
-                    "filename": "Desktop-Benefits-\u2212-Loreena-min-1.png",
+
+                    "title": "( Desktop ) Benefits − Loreena-min",
+                    "filename": "Desktop-Benefits-−-Loreena-min-1.png",
                     "size": { "width": 312, "height": 312 },
                     "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/A5OTlyIA/Pu0FgYBmVdeZkiLj5bAASMcHcUzLCc6LRsTALLM2gAbIiPGAlNdYDbz/QIA5OvuAA4MCQAfHBQ2BPLv7Mrb1NY61/z7APn6+QDX19nKA/nx88D49/c1/f79Gfj5+sj6+ftdBFw1oORigiMAAAAASUVORK5CYII="
                   },
                   "name": "Loreena Bao ",
                   "position": "Executive Director, China"
                 },
-                "quote": "<strong>\u201cTo gain client's trust, it's essential to communicate your expertise \u2014 and do it in the right way and on time.\u201d</strong><br>",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "quote": "<strong>“To gain client's trust, it's essential to communicate your expertise — and do it in the right way and on time.”</strong><br>"
               }
             }
           ]
@@ -1893,11 +1304,7 @@
             "expandButtonLabel": "View more",
             "collapseButtonLabel": "View less",
             "expandButtonTheme": "purpleGreen",
-            "hoverTheme": "purple",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "hoverTheme": "purple"
           },
           "innerBlocks": [
             {
@@ -1907,7 +1314,7 @@
                 "title": "<strong>Unleash your greatness</strong>",
                 "description": "We motivate and inspire our crew members to constantly learn and grow.",
                 "hoverDescription": "Variety of knowledge sharing, training and self-development opportunities <strong>- Star Web University, <strong>Star Expert </strong>and Employee Recognition Programs</strong>.",
-                "link": { "url": "/careers", "path": "/careers", "target": "_self", "rel": "" },
+                "link": { "url": "/careers", "path": "/careers" },
                 "button": { "type": "solid", "skin": "black", "size": "md", "icon": "arrow", "label": "Learn more" },
                 "cardButton": { "type": "solid", "skin": "black", "size": "md", "icon": "arrow", "label": "Learn more" },
                 "image": {
@@ -1915,14 +1322,13 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2022/08/12002241/Visual-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
+
                   "title": "Visual (1)",
                   "filename": "Visual-1.png",
-                  "placeholder": [],
-                  "withSize": true,
+
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 711, "height": 312 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AXR0b//s49wALyspAK3DyAA1KisAA/zt6IAzIxsAAwACAPUECAApCgAABDtOWAABHiQA/u3fAM+8yQDyIiEAAxwlJ4AACA8AAg4PABH+9gALAwAAA/sCB4D49/QA+QABAD8yLgDl3NoA8E0gkw4IJgUAAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAI0lEQVQImWP49f/lhM765UvmlLX2MEQnRbJJK5ZUlHExMAAAtO8KrbNsTRsAAAAASUVORK5CYII="
                 },
                 "format": "large",
                 "hoverMedia": {
@@ -1930,14 +1336,10 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/08/13035827/Meet-Up-1.3.mp4",
                   "type": "video",
                   "mime": "video/mp4",
-                  "alt": "",
+
                   "title": "Meet-Up #1.3",
                   "filename": "Meet-Up-1.3.mp4"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1947,7 +1349,7 @@
                 "title": "<strong>Thrive at Star</strong>",
                 "description": "We foster a healthy and productive work environment.",
                 "hoverDescription": "Amazing Star Spaces, flexible working hours<strong>, unique travel opportunities, financial security and health packages</strong>.",
-                "link": { "url": "/careers", "path": "/careers", "target": "_self", "rel": "" },
+                "link": { "url": "/careers", "path": "/careers" },
                 "button": { "type": "solid", "skin": "black", "size": "md", "icon": "arrow", "label": "Learn more" },
                 "cardButton": { "type": "solid", "skin": "black", "size": "md", "icon": "arrow", "label": "Learn more" },
                 "image": {
@@ -1955,20 +1357,14 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2022/08/12002303/Visual-2.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
+
                   "title": "Visual-2",
                   "filename": "Visual-2.png",
-                  "placeholder": [],
-                  "withSize": true,
+
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 480, "height": 564 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AYOCfv84NDEA09XWAOPj4AAA9u8ABPDx9AB+g4oAHBoXAFJRUAAK9+YAAXB+if8D9O0A1dbSAA8F/wAGCwsAAhAQEQAZAgAAFA4OAPHv7wDa5/MAAt7h4gDM4t8ATUI0AFNQSAAF9+oAwD8ogbc7P74AAAAASUVORK5CYII="
-                },
-                "format": "",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAM0lEQVQImQEoANf/AP//9MfEvIB5bABPU1ZQT0315tYAwMLLWEtJBQAAAEdLUcq6r19YUaXoEpAgZze9AAAAAElFTkSuQmCC"
+                }
               }
             },
             {
@@ -1982,10 +1378,8 @@
                   "id": "/careers",
                   "title": "/careers",
                   "url": "/careers",
-                  "type": "URL",
-                  "path": "/careers",
-                  "target": "_self",
-                  "rel": ""
+
+                  "path": "/careers"
                 },
                 "button": { "type": "solid", "skin": "black", "size": "md", "icon": "arrow", "label": "Learn more" },
                 "cardButton": { "type": "solid", "skin": "black", "size": "md", "icon": "arrow", "label": "Learn more" },
@@ -1994,30 +1388,24 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2022/08/12002324/Visual-3.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
+
                   "title": "Visual-3",
                   "filename": "Visual-3.png",
-                  "placeholder": [],
-                  "withSize": true,
+
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 240, "height": 282 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AcvJvf8A+gcAjYWHAD9LUADZ5ecAAtrj7ADx/gEARTQtAB4TEADy8PIABPrryACXqOsA7+PlAPW2xwAvODUAAtPW9wDJyNAAIh4cAB8UEAAJCQQABOfvBAAjJCIAOjAdAPzwzQAGLSwATcMn/5q0H5EAAAAASUVORK5CYII="
-                },
-                "format": "",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVQImWP4/+//jNau/inzGTZtWxvv7hcfnc7AzysowCBoqGvOoKHnXBbjvqy3AABolw7IAnKTCAAAAABJRU5ErkJggg=="
+                }
               }
             },
             {
               "blockName": "media-cards-tile",
               "attrs": {
                 "instanceId": "d51f99c0-c4a6-47ef-a1b2-96f079be8bc8",
-                "title": "Work for living \u2014 and for being",
+                "title": "Work for living — and for being",
                 "description": "We celebrate victories and prioritize happiness and productivity.",
-                "hoverDescription": "Dynamic <strong>tech and educational events</strong>, <strong>social\u00a0clubs with top industry experts</strong>, corporate celebrations and fun activities.",
-                "link": { "url": "/careers", "path": "/careers", "target": "_self", "rel": "" },
+                "hoverDescription": "Dynamic <strong>tech and educational events</strong>, <strong>social clubs with top industry experts</strong>, corporate celebrations and fun activities.",
+                "link": { "url": "/careers", "path": "/careers" },
                 "button": { "type": "solid", "skin": "black", "size": "md", "icon": "arrow", "label": "Learn more" },
                 "cardButton": { "type": "solid", "skin": "black", "size": "md", "icon": "arrow", "label": "Learn more" },
                 "image": {
@@ -2025,19 +1413,14 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/30083529/DSC00466-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
+
                   "title": "DSC00466 1",
                   "filename": "DSC00466-1.png",
                   "mediaFocus": { "x": 0, "y": 0 },
                   "contentTheme": "dark",
                   "size": { "width": 480, "height": 564 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AcG2mv/7/wsA3ebsABMNBwAA/P8AAubv9ADg5OUAvsLDAOjq7AAwNj8AAY+jNP8HBAYACP8LAPfsEQAbGDUAAwYHB4D/+RQA9ewKANTPAgDv9f8ABPTkHQDc7gYAGBgSAPv78ADg2t4Atw0thtkeJgkAAAAASUVORK5CYII="
-                },
-                "format": "",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAM0lEQVQImQEoANf/APLm1cS8r9DCrgDZ4Jh5gUn//94AWG8AcHMrXVdGABIAADgpJyYaE8jXEUlaTpe6AAAAAElFTkSuQmCC"
+                }
               }
             },
             {
@@ -2046,8 +1429,8 @@
                 "instanceId": "47a28887-838f-462e-bb95-ed0c0a9c21a0",
                 "title": "Lead breakthrough projects",
                 "description": "We take pride in crafting remarkable and truly authentic projects.",
-                "hoverDescription": "<strong>Work on the full product lifecycle</strong>\u00a0\u2014 from ideation and concept to delivery and post-market support.",
-                "link": { "url": "/careers", "path": "/careers", "target": "_self", "rel": "" },
+                "hoverDescription": "<strong>Work on the full product lifecycle</strong> — from ideation and concept to delivery and post-market support.",
+                "link": { "url": "/careers", "path": "/careers" },
                 "button": { "type": "solid", "skin": "black", "size": "md", "icon": "arrow", "label": "Learn more" },
                 "cardButton": { "type": "solid", "skin": "black", "size": "md", "icon": "arrow", "label": "Learn more" },
                 "image": {
@@ -2055,20 +1438,14 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2022/08/12002345/Desktop-Work-at-Star-%E2%88%92-Create-meaningful-experiences-min-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "Desktop-Work-at-Star-\u2212-Create-meaningful-experiences-min",
-                  "filename": "Desktop-Work-at-Star-\u2212-Create-meaningful-experiences-min-1.png",
-                  "placeholder": [],
-                  "withSize": true,
+
+                  "title": "Desktop-Work-at-Star-−-Create-meaningful-experiences-min",
+                  "filename": "Desktop-Work-at-Star-−-Create-meaningful-experiences-min-1.png",
+
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 480, "height": 564 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAV0lEQVQImSXBSw7CMAxAwWdjpyCxpR/l/geMgoRQ6riLzoh5yTkD1Qc3wcyMsryZUxBVIgIbY7BuB7//Sa2VOAfq7rTWEJKnJC8V5LPu2b+d4gU1JzO5AN1EHs28bfouAAAAAElFTkSuQmCC"
-                },
-                "format": "",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMElEQVQImWNg5+BkYGBiYmFnkJKSNrdxsnfzY1BUVqlv7Pz//z+DiKiYqJiEppY+AHhTB/HeYBq9AAAAAElFTkSuQmCC"
+                }
               }
             }
           ]
@@ -2080,87 +1457,47 @@
       "attrs": {
         "instanceId": "afbdcdb4-54db-48f6-aaac-c12cef603346",
         "theme": "greyLight",
-        "isStretchHeight": false,
         "className": "is-style-greyLight",
-        "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
           "blockName": "content-sidebar",
-          "attrs": {
-            "instanceId": "62bb59a4-2451-405e-a90a-90e2c81a6b73",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          },
+          "attrs": { "instanceId": "62bb59a4-2451-405e-a90a-90e2c81a6b73" },
           "innerBlocks": [
             {
               "blockName": "content-sidebar-item",
-              "attrs": {
-                "instanceId": "51a9b2af-dcfc-4a75-8c1a-5d394121d91f",
-                "theme": "greyLight",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
+              "attrs": { "instanceId": "51a9b2af-dcfc-4a75-8c1a-5d394121d91f", "theme": "greyLight" },
               "innerBlocks": [
                 {
                   "blockName": "heading",
                   "attrs": {
                     "instanceId": "63d0ded5-b468-4769-84d6-617bf774b047",
                     "level": 3,
-                    "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Recent cases</strong>",
+                    "text": "Recent cases",
                     "align": "left",
                     "placeholder": "",
                     "format": "title-1",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "bold"
                   }
                 }
               ]
             },
             {
               "blockName": "media-sidebar-item",
-              "attrs": {
-                "instanceId": "06d66690-b877-4d89-8203-e5b8dd309638",
-                "theme": "greyLight",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
+              "attrs": { "instanceId": "06d66690-b877-4d89-8203-e5b8dd309638", "theme": "greyLight" },
               "innerBlocks": [
                 {
                   "blockName": "button",
                   "attrs": {
                     "instanceId": "60f14ff0-bc75-4eb7-bcee-0d1e733bf9e6",
                     "label": "View all cases",
-                    "link": {
-                      "url": "https://star.global/our-work/",
-                      "path": "/our-work/",
-                      "target": "_blank",
-                      "rel": "",
-                      "opensInNewTab": true
-                    },
+                    "link": { "url": "https://star.global/our-work/", "path": "/our-work/", "target": "_blank" },
                     "skin": "blackGreen",
                     "size": "md",
                     "mobileSize": "full-width",
                     "type": "solid",
-                    "icon": "arrow",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "icon": "arrow"
                   }
                 }
               ]
@@ -2169,30 +1506,20 @@
         },
         {
           "blockName": "cases",
-          "attrs": {
-            "instanceId": "17ed7269-00f1-44ab-8779-90b9b9423be4",
-            "innerLogoBg": "transparent",
-            "hoverBgTile": "purple",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          },
+          "attrs": { "instanceId": "17ed7269-00f1-44ab-8779-90b9b9423be4", "hoverBgTile": "purple" },
           "innerBlocks": [
             {
               "blockName": "case-tile",
               "attrs": {
                 "instanceId": "01bfcbad-063c-42ba-b186-f7996279e216",
-                "title": "<strong>Co-designing the\u00a0world\u2019s first in-car companion</strong>",
+                "title": "<strong>Co-designing the world’s first in-car companion</strong>",
                 "suptitle": "automotive &amp; mobility",
-                "description": "",
                 "layout": "bg-tile",
                 "logo": {
                   "id": 50641,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/09/21045747/Client_s-NameNIO.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=NIO",
                   "filename": "Client_s-NameNIO.svg",
                   "mediaFocus": { "x": 0, "y": 0 },
@@ -2204,30 +1531,20 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14003209/Desktop-Recent-Cases-%E2%88%92-NIO.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Recent Cases \u2212 NIO",
-                  "filename": "Desktop-Recent-Cases-\u2212-NIO.png",
-                  "placeholder": [],
-                  "withSize": true,
+                  "title": "( Desktop ) Recent Cases − NIO",
+                  "filename": "Desktop-Recent-Cases-−-NIO.png",
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 1126, "height": 1030 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/ARoeJP/7/PsACwoLAAcICQDx8e4AAZuosP/j4uMAl42TAAICAgA8QzwABPj18wATEg8A+vr7AP///wADAgIABAABAQD08vIAaHBoAOzs7QD08vIAA/j2/YD29fcABgYFAAkKCAD6+vsAqTcrm3PYDJEAAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMElEQVQImWOo65rs6BEsKqFq7ejD8Pn//6buWQwMkpUtExg27T665eCpnpmLyxq6ATAKEYq92ZAmAAAAAElFTkSuQmCC"
                 },
                 "link": {
                   "path": "/cases/nio-nomi/",
                   "target": "_blank",
-                  "rel": "",
                   "title": "https://star.global/cases/nio-nomi/",
-                  "type": "URL",
                   "id": "https://star.global/cases/nio-nomi/",
-                  "url": "https://star.global/cases/nio-nomi/",
-                  "opensInNewTab": true
+                  "url": "https://star.global/cases/nio-nomi/"
                 },
-                "button": { "label": "Explore case study", "skin": "purpleBlack", "size": "md", "type": "link", "icon": "arrow" },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "button": { "label": "Explore case study", "skin": "purpleBlack", "size": "md", "type": "link", "icon": "arrow" }
               }
             },
             {
@@ -2236,14 +1553,12 @@
                 "instanceId": "cea9005d-69ce-4eb4-9428-196941e546a2",
                 "title": "<strong>Designing a next-gen HMI</strong>",
                 "suptitle": "AUTOMOTIVE &amp; MOBILITY",
-                "description": "",
                 "layout": "bg-tile",
                 "logo": {
                   "id": 50635,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/09/21045625/Client_s-NameSaic.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=Saic",
                   "filename": "Client_s-NameSaic.svg",
                   "mediaFocus": { "x": 0, "y": 0 },
@@ -2255,27 +1570,18 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/15020949/Desktop-Recent-Cases-%E2%88%92-SAIC-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Recent Cases \u2212 SAIC-min",
-                  "filename": "Desktop-Recent-Cases-\u2212-SAIC-min.png",
-                  "placeholder": [],
-                  "withSize": true,
+                  "title": "( Desktop ) Recent Cases − SAIC-min",
+                  "filename": "Desktop-Recent-Cases-−-SAIC-min.png",
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 1126, "height": 1030 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAW0lEQVQImQXBsQ6CUBBFwXN39wGhsTOGxIb//yfoaChIVCKYxzqjiJKl6zESKw3H/ka3xzNJMdxHlnWGvDD/fan7xmubsPND7yBzT4DwoNZKkoQAENG0cB5I4g+kfh4Mbm+EiAAAAABJRU5ErkJggg=="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMklEQVQImQEnANj/AFFVVsvR4fj//2NobACAhoqytLnV1t7FzNMAAAAAGRkZIiMjCwsMnuIRGHTqvLoAAAAASUVORK5CYII="
                 },
                 "link": {
                   "url": "https://star.global/cases/hmi-design-for-mg-cars/",
                   "path": "/cases/hmi-design-for-mg-cars/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
-                "button": { "label": "Explore case study", "skin": "purpleBlack", "size": "md", "type": "link", "icon": "arrow" },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "button": { "label": "Explore case study", "skin": "purpleBlack", "size": "md", "type": "link", "icon": "arrow" }
               }
             },
             {
@@ -2284,14 +1590,12 @@
                 "instanceId": "8336c288-e2c9-4b3d-999d-1a4efc108402",
                 "title": "<strong>Helping ZEISS digitally transform the eye exam</strong>",
                 "suptitle": "Healthtech",
-                "description": "",
                 "layout": "bg-tile",
                 "logo": {
                   "id": 50651,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/02/21050357/Client_s-NameZeiss.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=Zeiss",
                   "filename": "Client_s-NameZeiss.svg",
                   "mediaFocus": { "x": 0, "y": 0 },
@@ -2303,29 +1607,20 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/15021238/Desktop-Recent-Cases-%E2%88%92-ZEISS-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Recent Cases \u2212 ZEISS",
-                  "filename": "Desktop-Recent-Cases-\u2212-ZEISS-1.png",
-                  "placeholder": [],
-                  "withSize": true,
+                  "title": "( Desktop ) Recent Cases − ZEISS",
+                  "filename": "Desktop-Recent-Cases-−-ZEISS-1.png",
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 1126, "height": 1030 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AXFmXv/MzsoAKiAZAOXm6wAvIx8AA/X29YDh5eoAiWtSAP3x8ADs8vQAAiwuMwA1LysA/fr9ABUXFwDB0NsABPgGJABHTDsA19nHALjI0gDm7/QABGxsYwAVEQcA1sEAAAbT3QALCggAh2sqSrWSGHIAAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMElEQVQImWOwMdNJC3Y8s7B+eX0yg4u79+r+mv8fD2lLcDHsu/jj/+/PE7NC2BkYAEcFEWM0NGxHAAAAAElFTkSuQmCC"
                 },
                 "link": {
                   "title": "Lufthansa",
                   "type": "case",
                   "path": "/cases/zeiss/",
                   "target": "_blank",
-                  "rel": "",
-                  "url": "https://star.global/cases/zeiss/",
-                  "opensInNewTab": true
+                  "url": "https://star.global/cases/zeiss/"
                 },
-                "button": { "label": "Explore case study", "skin": "purpleBlack", "size": "md", "type": "link", "icon": "arrow" },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "button": { "label": "Explore case study", "skin": "purpleBlack", "size": "md", "type": "link", "icon": "arrow" }
               }
             },
             {
@@ -2333,35 +1628,20 @@
               "attrs": {
                 "instanceId": "b849d5b4-2af5-429b-b71b-5609f2ffe2b9",
                 "title": "<strong>Want to start a new project with us?</strong>",
-                "suptitle": "",
-                "description": "",
                 "layout": "bg-tile",
                 "background": {
                   "id": 43045,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/15021435/Desktop-Recent-Cases-%E2%88%92-A-New-Project-min-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Recent Cases \u2212 A New Project-min",
-                  "filename": "Desktop-Recent-Cases-\u2212-A-New-Project-min-1.png",
-                  "placeholder": [],
-                  "withSize": true,
+                  "title": "( Desktop ) Recent Cases − A New Project-min",
+                  "filename": "Desktop-Recent-Cases-−-A-New-Project-min-1.png",
                   "mediaFocus": { "x": 0.5, "y": 0.5 },
                   "size": { "width": 1126, "height": 1030 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdElEQVQImQFpAJb/AYpQI//zFTEAJjQ+AKypqAAlEvsAAwQFCYAdC/oA9vX1APb6+wD+/PwABDIpJQDQ2tsA29HxABwRCQDq8fUAATkiFP8gEwcAFRAPAAAHCQDK3/AAAioT/AAcExIA/QgXAN/l6wAfDgIACIckHpCTs+8AAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAL0lEQVQImWNINOT6//3qkfWLu7ICGOpCrKxkmFyNFEUZGBj02BlqvLXKA801RBkAF9ILNaoapToAAAAASUVORK5CYII="
                 },
-                "link": {
-                  "url": "https://star.global/contact/",
-                  "path": "/contact/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
-                },
-                "button": { "label": "Contact us now", "skin": "purpleBlack", "size": "md", "type": "solid", "icon": "arrow" },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "link": { "url": "https://star.global/contact/", "path": "/contact/", "target": "_blank" },
+                "button": { "label": "Contact us now", "skin": "purpleBlack", "size": "md", "type": "solid", "icon": "arrow" }
               }
             }
           ]
@@ -2370,42 +1650,22 @@
     },
     {
       "blockName": "section-default",
-      "attrs": {
-        "instanceId": "b25b8c2c-7120-45c5-8b22-3cba81ac1638",
-        "theme": "white",
-        "isStretchHeight": false,
-        "locationViewConditions": { "rule": "include", "region": "all", "country": "all", "showIfUserLocationUndefined": false },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
-      },
+      "attrs": { "instanceId": "b25b8c2c-7120-45c5-8b22-3cba81ac1638", "theme": "white", "contentAlignment": "left" },
       "innerBlocks": [
         {
           "blockName": "heading",
           "attrs": {
             "instanceId": "d90110e7-11b5-44e3-be34-032ab902096e",
             "level": 2,
-            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Design Experts</strong>",
+            "text": "Design Experts",
             "align": "left",
             "format": "title-1",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "bold"
           }
         },
         {
           "blockName": "experts",
-          "attrs": {
-            "instanceId": "30481f9e-c001-4f7f-8d34-c723acd00abc",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
-          },
+          "attrs": { "instanceId": "30481f9e-c001-4f7f-8d34-c723acd00abc" },
           "innerBlocks": [
             {
               "blockName": "expert-tile",
@@ -2418,42 +1678,18 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14002810/Desktop-Design-Experts-%E2%88%92-Manuel-Gattinger-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Design Experts \u2212 Manuel Gattinger-min",
-                  "filename": "Desktop-Design-Experts-\u2212-Manuel-Gattinger-min.png",
+                  "title": "( Desktop ) Design Experts − Manuel Gattinger-min",
+                  "filename": "Desktop-Design-Experts-−-Manuel-Gattinger-min.png",
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAWUlEQVQImSXKvQ1AERSA0e++DVQiNBLDmMAE5jKHfagsoPHzCu3JkTnnLaVgraW1Rs6ZD8B7zxgDpRTAQ+ccvXeMMQBIjPGutUgpUWtFa42EEO7em3POWyL835sgJISQmH4AAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAL0lEQVQImRXEoREAMAgDwIhsimEABsIxYEQc9PriIam7bWN3Z+bukJkRUVUgCfwfCN4TYKCKoiEAAAAASUVORK5CYII="
                 },
                 "link": {
                   "url": "https://www.linkedin.com/in/manuel-gattinger-08896a5/",
-                  "path": "https://www.linkedin.com/in/manuel-gattinger-08896a5/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "318b8bf5-3c77-4c24-a028-c35007bf7a2d",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile",
@@ -2466,42 +1702,18 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14002939/Desktop-Design-Experts-%E2%88%92-Tobias-Skuhra-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Design Experts \u2212 Tobias Skuhra-min",
-                  "filename": "Desktop-Design-Experts-\u2212-Tobias-Skuhra-min.png",
+                  "title": "( Desktop ) Design Experts − Tobias Skuhra-min",
+                  "filename": "Desktop-Design-Experts-−-Tobias-Skuhra-min.png",
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAWklEQVQImQXBsRVFERBAwbt8UrFUoAoNKUglEp2oQ+CshPdn5JzzjTEwxjDnpNaKAUgpsdYi54xzjh+A9x5VZe+NiCC996+1RggBESHGiJRSvnsv7z2stagqfzLeI1b/+A6QAAAAAElFTkSuQmCC"
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMElEQVQImQXBMRUAAARAwT8poJRCWkhg1c7gacAdu5uZ3c3dVdXMEBFm5u6IiKoCD/8bEzP6GyY3AAAAAElFTkSuQmCC"
                 },
                 "link": {
                   "url": "https://www.linkedin.com/in/tobiasskuhra/",
-                  "path": "https://www.linkedin.com/in/tobiasskuhra/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "4b32b39c-e445-4fc9-863f-6041132c4f69",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile",
@@ -2514,42 +1726,18 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14002632/Desktop-Design-Experts-%E2%88%92-Alexander-Debkaliuk-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Design Experts \u2212 Alexander Debkaliuk-min",
-                  "filename": "Desktop-Design-Experts-\u2212-Alexander-Debkaliuk-min.png",
+                  "title": "( Desktop ) Design Experts − Alexander Debkaliuk-min",
+                  "filename": "Desktop-Design-Experts-−-Alexander-Debkaliuk-min.png",
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAX0lEQVQImQXBuxFFERQF0H2eG0ukZ2QygUK0pDMtyNWgAZ9h9ltL1lqstUJEEEKAquITETjncM6BtRYA8CMJYwx67yilYIwBtNaYc6b3nqrKGCMlpcQ5J957uPdi740/Zfwqwz7aaz4AAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMElEQVQImQXBQREAAAQAwYvgqYsISiqhgDQi+Bh26e7MvDt2t6pmhogwM3dHVUUEeBcYE+R2koONAAAAAElFTkSuQmCC"
                 },
                 "link": {
                   "url": "https://www.linkedin.com/in/alexdbk/",
-                  "path": "https://www.linkedin.com/in/alexdbk/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "56fd05d9-d7ab-4099-b3f8-9c78986a21d3",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile",
@@ -2562,42 +1750,18 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14002621/Desktop-Design-Experts-%E2%88%92-Agnieszka-Billewicz-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Design Experts \u2212 Agnieszka Billewicz-min",
-                  "filename": "Desktop-Design-Experts-\u2212-Agnieszka-Billewicz-min.png",
+                  "title": "( Desktop ) Design Experts − Agnieszka Billewicz-min",
+                  "filename": "Desktop-Design-Experts-−-Agnieszka-Billewicz-min.png",
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAZUlEQVQImQXBIQ6EMBBA0b9NqKiqbVK1HLU36i3AgICAoX4xrKBAxgzvse8/zTlrSkljjDqMgxpQrG0IIeCco+96zH0/HMefUgoiwlY2zLKs8AHvPdY21LNiAK56Mc8TIkLbfnkBOhYuJ3/tcU8AAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAM0lEQVQImQEoANf/AP7+/VdXV9fX1QD///1BQUFwcG4Azc3NQUFBR0dHAJaWlQAAAElJSLjbEig9yifxAAAAAElFTkSuQmCC"
                 },
                 "link": {
                   "url": "https://www.linkedin.com/in/agnieszkabillewicz/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABi4ubEBAKuvoFfrZYuAqn8dgol33O3J-mI",
-                  "path": "https://www.linkedin.com/in/agnieszkabillewicz/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABi4ubEBAKuvoFfrZYuAqn8dgol33O3J-mI",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "0618cb8b-1ae3-40fc-b60d-428da5a5d341",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile",
@@ -2610,42 +1774,18 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14002651/Desktop-Design-Experts-%E2%88%92-Alexander-Marcevoi-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Design Experts \u2212 Alexander Marcevoi-min",
-                  "filename": "Desktop-Design-Experts-\u2212-Alexander-Marcevoi-min.png",
+                  "title": "( Desktop ) Design Experts − Alexander Marcevoi-min",
+                  "filename": "Desktop-Design-Experts-−-Alexander-Marcevoi-min.png",
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAWklEQVQImQXBsQ2FERSA0e/9KF2T2NYChtAqzCEq0WtEIbnvnN97T0spiAgxRkQECxBCwBiDtRZV5VNV7r201kgpsffG9t7JObPWwjnHGIOv1gqA955zDnNO/sNZKLVdlaMpAAAAAElFTkSuQmCC"
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAL0lEQVQImQXBQREAAAQAwRtB5BBDSj9d9CCAH7t0d1XdHTOTmbtLRKiqu2NmIgI8FtMTzFdNt+gAAAAASUVORK5CYII="
                 },
                 "link": {
                   "url": "https://www.linkedin.com/in/marcevoi/",
-                  "path": "https://www.linkedin.com/in/marcevoi/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "8ab12ada-8d43-4660-8be0-3db9cb11dc3d",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile",
@@ -2658,90 +1798,42 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14002854/Desktop-Design-Experts-%E2%88%92-Mykola-Yukhnov-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Design Experts \u2212 Mykola Yukhnov-min",
-                  "filename": "Desktop-Design-Experts-\u2212-Mykola-Yukhnov-min.png",
+                  "title": "( Desktop ) Design Experts − Mykola Yukhnov-min",
+                  "filename": "Desktop-Design-Experts-−-Mykola-Yukhnov-min.png",
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAYElEQVQImQXBsQlEIRBAwbf3T1hBTMVubMNurhi7sAZDazAyEeFnejPyvu9trTHGIKWE957PvRcRofeOiADwxBh/pRRCCNRaAZCc851zYozhnIOq8lVVnHPsvVlrYa3lD9v8IqCkTusVAAAAAElFTkSuQmCC"
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMUlEQVQImQXBQREAAAQAwftqIYWnGSF99ZFBBhnYZWaq6u7o7szcXcxMVd2diBAR4AHNOxDkA/k/kgAAAABJRU5ErkJggg=="
                 },
                 "link": {
                   "url": "https://www.linkedin.com/in/nikolay-yukhnov-25724976/",
-                  "path": "https://www.linkedin.com/in/nikolay-yukhnov-25724976/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "5ab550ec-ee93-4bda-99dc-15678000b498",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile",
               "attrs": {
                 "instanceId": "7a4c7963-47da-4c10-bdc9-f5baa8618046",
-                "name": "Cl\u00e9mentine Alexandre",
+                "name": "Clémentine Alexandre",
                 "title": "Principal Product Designer",
                 "photo": {
                   "id": 42654,
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14002704/Desktop-Design-Experts-%E2%88%92-Clementine-Alexandre-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Design Experts \u2212 Clementine Alexandre-min",
-                  "filename": "Desktop-Design-Experts-\u2212-Clementine-Alexandre-min.png",
+                  "title": "( Desktop ) Design Experts − Clementine Alexandre-min",
+                  "filename": "Desktop-Design-Experts-−-Clementine-Alexandre-min.png",
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAX0lEQVQImQXBoQ1EIRBAwXf/n9oGMHg6o46rDUERCByOEEg2mCXhZj5mdlNKiAg5Z2KMfAHmnJgZ3nvOOTy1Vs45rLUopdBa4w0h/MYY9N7Ze6OqPPdeRARVRURwzvEH834zJ75uYMMAAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAMElEQVQImQXBMQEAAAQAwW8ihBpaGEUwiKeLQQXuuLuq2l1mxt27GzMTkYhAVYHMfMhkEg0fZEVsAAAAAElFTkSuQmCC"
                 },
                 "link": {
                   "url": "https://www.linkedin.com/in/clemalexandre/",
-                  "path": "https://www.linkedin.com/in/clemalexandre/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "643266d0-16bc-4727-89b0-8252320f7bf7",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile",
@@ -2754,47 +1846,22 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2022/05/13015715/Shalika_.jpeg",
                   "type": "image",
                   "mime": "image/jpeg",
-                  "alt": "",
                   "title": "Shalika_",
                   "filename": "Shalika_.jpeg",
-                  "withSize": true,
                   "mediaFocus": { "x": "0.5", "y": "0.5" },
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgABQAFAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5rVfjX4v0PxNqN1ZXFn5l6kLy+dao/OGYAccAFyPpjOTkkoooA//2Q=="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAECAIAAAArjXluAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJUlEQVQImWP4////7t27GQ4cOFBeXs6QmZkpLCzM4ObmxsDAAADWJAsaCLVOUgAAAABJRU5ErkJggg=="
                 },
                 "link": {
-                  "path": "https://www.linkedin.com/in/shalika-hanum/",
                   "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true,
                   "id": "https://www.linkedin.com/in/shalika-hanum/",
                   "title": "https://www.linkedin.com/in/shalika-hanum/",
                   "url": "https://www.linkedin.com/in/shalika-hanum/",
                   "type": "URL"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "9fae738c-2088-4485-a35d-9ee0a4f2e42f",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile",
@@ -2807,42 +1874,18 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14003012/Desktop-Design-Experts-%E2%88%92-Valeriia-Loboda-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Design Experts \u2212 Valeriia Loboda-min",
-                  "filename": "Desktop-Design-Experts-\u2212-Valeriia-Loboda-min.png",
+                  "title": "( Desktop ) Design Experts − Valeriia Loboda-min",
+                  "filename": "Desktop-Design-Experts-−-Valeriia-Loboda-min.png",
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAaElEQVQImQXBsRHCIBiA0U+OgtjQsYHMwCJmhDhYMgh9nCHg0VD5N1QGzrx3K6X8t3XFe8+REstrQYkIYwycc+R0AKCNMezvnVor03QnxohqreEfHq01+ZOZnzNK5Iu1lhAC5++k984FGLsqkDx/ssoAAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAM0lEQVQImQEoANf/AO3t7La0tP///wDOzs2HhYXl5eUAxcXFd3Z1Ozo6ALa2toB/fwAAABgjFosVQ5y0AAAAAElFTkSuQmCC"
                 },
                 "link": {
                   "url": "https://www.linkedin.com/in/valeryl1/?originalSubdomain=ua",
-                  "path": "https://www.linkedin.com/in/valeryl1/?originalSubdomain=ua",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "3a8fa5ed-519d-4f5a-9e8e-e7b36a939eea",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile",
@@ -2855,42 +1898,18 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14002754/Desktop-Design-Experts-%E2%88%92-Kate-Yukhnova-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Design Experts \u2212 Kate Yukhnova-min",
-                  "filename": "Desktop-Design-Experts-\u2212-Kate-Yukhnova-min.png",
+                  "title": "( Desktop ) Design Experts − Kate Yukhnova-min",
+                  "filename": "Desktop-Design-Experts-−-Kate-Yukhnova-min.png",
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAX0lEQVQImQXBwQ3CMAxA0Z+ot0zQsENZg+5E56tYw9wpksOlrm3eK5/vka99JyIY48djXalkMs8ds4vlvpCZ1MuMCMfdUVXsPCnb9kxVpfcbYygAk4jQWuMtQqmF8OAP3Nk1MKizz8MAAAAASUVORK5CYII="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAM0lEQVQImQEoANf/AO/w8IODg+zt7AD19vWoqKj+//8AZ2ZmXl1dc3JyAAEAACQkJBwbG/WJE1MfR0/RAAAAAElFTkSuQmCC"
                 },
                 "link": {
                   "url": "https://www.linkedin.com/in/katerina-yukhnova-51334176/?originalSubdomain=ua",
-                  "path": "https://www.linkedin.com/in/katerina-yukhnova-51334176/?originalSubdomain=ua",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "b2d4029e-0f35-4afa-984a-0495035657d5",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile",
@@ -2903,61 +1922,27 @@
                   "url": "https://cdn.star.global/wp-content/uploads/2021/07/14002904/Desktop-Design-Experts-%E2%88%92-Olga-Salko-min.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
-                  "title": "( Desktop ) Design Experts \u2212 Olga Salko-min",
-                  "filename": "Desktop-Design-Experts-\u2212-Olga-Salko-min.png",
+                  "title": "( Desktop ) Design Experts − Olga Salko-min",
+                  "filename": "Desktop-Design-Experts-−-Olga-Salko-min.png",
                   "size": { "width": 756, "height": 1240 },
-                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAaklEQVQImQXBsQ6CMBRA0ZvXYKSfqk7yUfRfYOogMnRoQps8I0kZOhCHeg77/m3D8Gze+/a439q6vpuklDDGkLaNa9+Tc0ZKKSzLi3IcxBjpugtSayWEgHMOay3zNCGqynn+0I8iIoxu5A8vHza7Tg2m2wAAAABJRU5ErkJggg=="
+                  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAM0lEQVQImQEoANf/AP7//rm3t/j39gDJych9fXzOzs0AkZCPPDw8g4OCAGlqag8PDwAAAPrwE5e6Tyq1AAAAAElFTkSuQmCC"
                 },
                 "link": {
                   "url": "https://www.linkedin.com/in/olga-salko-53b44326/",
-                  "path": "https://www.linkedin.com/in/olga-salko-53b44326/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
+                  "target": "_blank"
                 },
                 "hoverTheme": "black",
-                "bioPosition": "back-side",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
-              "innerBlocks": [
-                {
-                  "blockName": "paragraph",
-                  "attrs": {
-                    "instanceId": "862c58da-c0b2-4eeb-977f-0405c1c93295",
-                    "text": "",
-                    "format": "body-2",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
-                  }
-                }
-              ]
+                "bioPosition": "back-side"
+              }
             },
             {
               "blockName": "expert-tile-cta",
               "attrs": {
                 "instanceId": "737181b2-1268-4738-8027-4bcfbeb0f59a",
                 "description": "Ready to discuss<br><strong>your big ideas?</strong>",
-                "link": {
-                  "url": "https://star.global/contact/",
-                  "path": "/contact/",
-                  "target": "_blank",
-                  "rel": "",
-                  "opensInNewTab": true
-                },
+                "link": { "url": "https://star.global/contact/", "path": "/contact/", "target": "_blank" },
                 "button": { "skin": "black", "size": "md", "type": "solid", "icon": "arrow", "label": "Contact us now" },
-                "theme": "purpleLight",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "theme": "purpleLight"
               }
             }
           ]
@@ -2970,11 +1955,7 @@
         "instanceId": "439bf335-82e8-4be0-b38f-43d949aaa310",
         "anchor": "contact",
         "theme": "gradient-violet-3",
-        "buttonFormat": "text-label",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "buttonFormat": "text-label"
       },
       "innerBlocks": [
         {
@@ -2988,91 +1969,57 @@
             },
             "button": { "icon": "none" },
             "validationSuccessText": "Everything's correct!",
-            "source": "hubspot",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "source": "hubspot"
           },
           "innerBlocks": [
             {
               "blockName": "form-confirmation",
-              "attrs": {
-                "instanceId": "a45f17ed-85f3-44d0-89e1-42472bc9597e",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
+              "attrs": { "instanceId": "a45f17ed-85f3-44d0-89e1-42472bc9597e" },
               "innerBlocks": [
                 {
                   "blockName": "heading",
                   "attrs": {
                     "instanceId": "a2124e27-86b0-44ee-a534-fe5d102b2a08",
                     "level": 2,
-                    "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Thank you!</strong>",
+                    "text": "Thank you!",
                     "align": "left",
                     "format": "title-2",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "bold"
                   }
                 },
                 {
                   "blockName": "paragraph",
                   "attrs": {
                     "instanceId": "976e0049-15c2-4747-8c4d-ea3d96ca6a27",
-                    "text": "<span data-font-face=\"light\" class=\"swc-light\">We will contact you soon.</span>",
+                    "text": "We will contact you soon.",
                     "format": "body-1",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "light"
                   }
                 }
               ]
             },
             {
               "blockName": "form-error",
-              "attrs": {
-                "instanceId": "988ae292-03f6-454c-81d3-838d78089180",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
-              },
+              "attrs": { "instanceId": "988ae292-03f6-454c-81d3-838d78089180" },
               "innerBlocks": [
                 {
                   "blockName": "heading",
                   "attrs": {
                     "instanceId": "01bcdde0-8d46-40a0-b3ef-e774cb788d83",
                     "level": 2,
-                    "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Oh, no!</strong>",
+                    "text": "Oh, no!",
+                    "fontFace": "bold",
                     "align": "left",
-                    "format": "title-2",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "format": "title-2"
                   }
                 },
                 {
                   "blockName": "paragraph",
                   "attrs": {
                     "instanceId": "e9569575-50c4-4154-8de0-d9aac0c1eefc",
-                    "text": "<span data-font-face=\"light\" class=\"swc-light\">Something went wrong. Please try again later.</span>",
+                    "text": "Something went wrong. Please try again later.",
                     "format": "body-1",
-                    "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "light"
                   }
                 }
               ]
@@ -3085,7 +2032,6 @@
   "seo": {
     "titles_title": "Star Design. Global Craftspeople",
     "titles_desc": "At Star,  we connect creativity and empathy with technology to co-create inspiring user-driven experiences. we create holistic mobility journeys through user-centered design.",
-    "schemas": [{ "id": "429650", "value": "" }],
     "datePublished": "2021-07-18T11:32:41-07:00",
     "dateModified": "2022-08-18T09:24:04-07:00",
     "disabled_robots_index": false,
